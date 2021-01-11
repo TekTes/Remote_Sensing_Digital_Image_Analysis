@@ -1,5 +1,5 @@
 ---
-title: Python Fundamentals
+title: Remote Sensing Image Acquisition, Analysis and Applications
 teaching: 20
 exercises: 10
 questions:
