@@ -25,8 +25,6 @@ However, image interpretation isn't a simple task. So it is important to underst
 
 We start with looking at how energy coming from the Earth's surface can be made into an image. 
 
-<center>
-
 ![Signal flow in a remote sensing system](../fig/remote-sensing-system.JPG)
 
 The Image in the above figure shows a remote sensing system consisting of a sensor which can detect energy coming from the Earth's surface, followed by some form of instrumentation, which can convert that measured energy into an electrical signal, and a means for sending that signal to the Earth's surface. On the ground, the signal is composed into the form of images of the landscape. Over which the platform has flown. Sometimes the images are formed in recorded on the platform itself and then downloaded when the platform returns to the earth's surface. That is often the case for aircraft remote sensing or when drones are used to form images of the earth. The energy that the sensor detects is most often just sunlight reflected from the earth's surface, just like we say the landscape from the window of an aeroplane. Alternatively, though, it could be the natural heat energy emanating from the earth. Or it could even be energy scattered from the surface as a result of some form of artificial illumination. A typical example of that would be scattered radio waves in the case of radar imaging, which we will say a little more about later. 
