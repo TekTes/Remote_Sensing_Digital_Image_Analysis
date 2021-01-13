@@ -1,6 +1,4 @@
 ---
-title: Remote Sensing Image Acquisition, Analysis and Applications
-
 # Remote Sensing Image Acquisition, Analysis and Applications
 
 ## Course Introduction
