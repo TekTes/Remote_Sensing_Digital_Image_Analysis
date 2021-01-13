@@ -1,10 +1,10 @@
 ---
-layout: lesson
-root: .
-permalink: index.html
+#layout: lesson
+#root: .
+#permalink: index.html
 ---
 
-## Course 
+## Course Introduction
 
 The focus of this course is on the field of remote sensing, which is the technology for recording and using images of portions of the Earth surface. By analyzing and interpreting those images we can gain an understanding of how the region is used and managed, how it changes with time, and how natural features are distributed. 
 
