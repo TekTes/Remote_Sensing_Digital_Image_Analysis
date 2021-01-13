@@ -9,7 +9,7 @@ objectives:
 - "Examine how the presence of the Earth's atmosphere affects the images recorded."
 
 keypoints:
-- "to know how to analyze images so we can gather information about the landscape being imaged."
+- "To know how to analyze images so we can gather information about the landscape being imaged."
 - "Understand the nature of the remote sensing system, the platforms used for recording images of the Earth's surface, the imaging sensors used on those platforms, the various wavelengths used for imaging, how the atmosphere affects imaging, errors in the images and how they can be corrected"
 - "Understand the concept of spectral space, and then the basis of image understanding"
 - "Understand the principle components transform."
