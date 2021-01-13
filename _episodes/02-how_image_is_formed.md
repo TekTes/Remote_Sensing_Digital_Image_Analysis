@@ -27,7 +27,7 @@ We start with looking at how energy coming from the Earth's surface can be made 
 
 <center>
 
-![Signal flow in a remote sensing system](G:/Российский Университет Дружбы Народов/Research - General/EuroSat_CNN/Remote Sensing Image Acquisition, Analysis and Applications/fig/remote-sensing-system.JPG){#fig:remote-sensing-system}
+![Signal flow in a remote sensing system](../fig/remote-sensing-system.JPG){#fig:remote-sensing-system}
 
 </center>
 
