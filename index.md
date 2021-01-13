@@ -4,6 +4,8 @@
 #permalink: index.html
 ---
 
+Welcome to Remote Sensing Image Acquisition, Analysis and Applications, in which we explore the nature of imaging the earth's surface from space or from airborne vehicles. This course covers the fundamental nature of remote sensing and the platforms and sensor types used.  It also provides an in-depth treatment of the computational algorithms employed in image understanding, ranging from the earliest historically important techniques to more recent approaches based on deep learning.   The course material is extensively illustrated by examples and commentary on the how the technology is applied in practice.  It will prepare participants to use the material in their own disciplines and to undertake more detailed study in remote sensing and related topics.
+
 ## Course Introduction
 
 The focus of this course is on the field of remote sensing, which is the technology for recording and using images of portions of the Earth surface. By analyzing and interpreting those images we can gain an understanding of how the region is used and managed, how it changes with time, and how natural features are distributed. 
