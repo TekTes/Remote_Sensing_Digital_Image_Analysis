@@ -52,7 +52,7 @@ matplotlib.pyplot.show()
 ~~~
 {: .language-python}
 
-![Maximum Value Along The First Axis](../fig/inflammation-01-maximum.svg)
+![Maximum Value Along The First Axis](../fig/electromagnetic_spectrum.JPG)
 
 ~~~
 min_plot = matplotlib.pyplot.plot(numpy.min(data, axis=0))
