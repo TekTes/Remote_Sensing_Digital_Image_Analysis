@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 1 What is remote sensing
+title: Module 1 Lecture 1
 teaching: 40
 exercises: 20
 questions:
@@ -15,13 +15,15 @@ keypoints:
 - "Understand the principle components transform."
 ---
 
+### What is remote sensing?
+
 The first important concept in this course is to appreciate what we mean by the term remote sensing. 
 
 In simple terms, remote sensing is the technology of recording images or portions of the Earth's surface from spacecraft, aircraft or other platforms in order to understand the surface by analyzing and interpreting those images. 
 
 However, image interpretation isn't a simple task. So it is important to understand how the images are acquired in the first instance and whether those images contain any forms of error, or distortion. 
 
-## How Image is Formed from Satellites
+## The formation of Image from Energy
 
 We start with looking at how energy coming from the Earth's surface can be made into an image. 
 

@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 2 The atmosphere
+title: Module 1 Lecture 2
 teaching: 30
 exercises: 20
 questions:
@@ -14,7 +14,7 @@ keypoints:
 - "When designing a remote sensing program, attention must be paid to those portions of the spectrum which allow reasonable transmission of radiation"
 ---
 
-## Module 1 Lecture 2 The atmosphere
+## The atmosphere
 As we suggested at the end of the previous lecture, we need to understand a bit about the atmosphere and how it affects the ability to form images of the landscape. In this lecture, we will discuss the properties of the atmosphere and show how it limits the ability to image the earth's surface in certain wavelength ranges while making imaging possible at other wavelengths. 
 
 ![The effect of the atmosphere is different at different wavelengths ](../fig/atmospheric_layer.JPG){#fig:atmoshpheric_layer}
@@ -34,12 +34,12 @@ The figure in @fig:absorvation_in_atmospheric_constituents just shows a bit more
 
 ![Absorbation in Atmospheric Constituents](../fig/absorvation_in_atmospheric_constituents.JPG){#fig:absorvation_in_atmospheric_constituents}
 
-> > By way of a summary, we can conclude that the most suitable ranges of wavelengths for imaging the earth's surface through its atmosphere are the visible and lower end of the reflective infrared range, sometimes called the near infrared. As a result, if we examine the optical sensors used on most remote sensing satellites, we will see that they tend to have imaging capabilities some where within that broad range. However, we will see that there are other wavelengths that can be used if we re-examine the transmission properties of the atmosphere of the full wavelength range. 
->> 
-> > Returning to our previous graphs, we see that there is a reasonably good atmospheric window in the thermal infrared, that is the heat range and exceptionally good transmission for radio waves. Thermal remote sensing satellites, that is those that detect heat emanating from the earth's surface, operate with wave lengths in the range of about 3-5 micrometers. Those satellites can form heat maps of the earth's surface and are particularly good for detecting burning bush and wildfires. Because there's very little natural radio energy emanating from the earth itself, it is usual to irradiate the surface with an artificial source of energy if we wish to take advantage of the very broad atmospheric window in the radio waves range. The remote sensing platform then carries a radio receiver, which is so configured that it forms an image of the surface at radio wavelengths. That is the basis of the very large field of radar remote sensing. Sometimes we do form images of the natural microwave emissions of the surface but because the energy levels are so low, they tend to have very poor spatial resolution. We will not look at thermal remote sensing in any detail in this course, but we will spend some time on radar remote sensing in the last half of module 3. Irrespective of the image top, however, the image analysis techniques we will look at in this course can in principle be applied to any imagery. 
-> > 
->>In summary, the important message from this lecture is that the atmosphere interferes selectively with the passage of electromagnetic radiation. When designing a remote sensing program, attention must be paid to those portions of the spectrum which allow reasonable transmission of radiation. We will see that in a later lecture. 
-> > 
-> >In addition to this set of quiz questions, you might like to think about how you would design a remote sensing imager to map the surfaces of Mars and Venus, that requires you to think a bit about the atmospheres of those planets and the particular challenge of seeing the surface of Venus.
+By way of a summary, we can conclude that the most suitable ranges of wavelengths for imaging the earth's surface through its atmosphere are the visible and lower end of the reflective infrared range, sometimes called the near infrared. As a result, if we examine the optical sensors used on most remote sensing satellites, we will see that they tend to have imaging capabilities some where within that broad range. However, we will see that there are other wavelengths that can be used if we re-examine the transmission properties of the atmosphere of the full wavelength range. 
+
+Returning to our previous graphs, we see that there is a reasonably good atmospheric window in the thermal infrared, that is the heat range and exceptionally good transmission for radio waves. Thermal remote sensing satellites, that is those that detect heat emanating from the earth's surface, operate with wave lengths in the range of about 3-5 micrometers. Those satellites can form heat maps of the earth's surface and are particularly good for detecting burning bush and wildfires. Because there's very little natural radio energy emanating from the earth itself, it is usual to irradiate the surface with an artificial source of energy if we wish to take advantage of the very broad atmospheric window in the radio waves range. The remote sensing platform then carries a radio receiver, which is so configured that it forms an image of the surface at radio wavelengths. That is the basis of the very large field of radar remote sensing. Sometimes we do form images of the natural microwave emissions of the surface but because the energy levels are so low, they tend to have very poor spatial resolution. We will not look at thermal remote sensing in any detail in this course, but we will spend some time on radar remote sensing in the last half of module 3. Irrespective of the image top, however, the image analysis techniques we will look at in this course can in principle be applied to any imagery. 
+
+In summary, the important message from this lecture is that the atmosphere interferes selectively with the passage of electromagnetic radiation. When designing a remote sensing program, attention must be paid to those portions of the spectrum which allow reasonable transmission of radiation. We will see that in a later lecture. 
+
+In addition to this set of quiz questions, you might like to think about how you would design a remote sensing imager to map the surfaces of Mars and Venus, that requires you to think a bit about the atmospheres of those planets and the particular challenge of seeing the surface of Venus.
 
 {% include links.md %}
