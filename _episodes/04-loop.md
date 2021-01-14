@@ -115,29 +115,23 @@ This summary effectively is a statement of the important characteristics of the 
 
 
 
-> ## Understanding the loops
+> ## Quiz
 >
-> Given the following loop:
-> ~~~
-> word = 'oxygen'
-> for char in word:
->     print(char)
-> ~~~
-> {: .language-python}
->
-> How many times is the body of the loop executed?
->
-> * 3 times
-> * 4 times
-> * 5 times
-> * 6 times
->
-> > ## Solution
+> > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 > >
-> > The body of the loop is executed 6 times.
+> > - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
 > >
-> {: .solution}
-{: .challenge}
+> > - What platform would you choose in each of the following applications?
+> >   - Mapping forests on a continental scale.
+> >   - Daily monitoring fence conditions on a farm.
+> >   - Monitoring an actively burning forest fire that covers about 50ha.
+> >   - Seasonal monitoring of crop growth and condition in large scale agriculture.
+> >
+> > > ## Solution
+> > >
+> > > {: .solution}
+> > > {: .challenge}
+>
 
 
 
