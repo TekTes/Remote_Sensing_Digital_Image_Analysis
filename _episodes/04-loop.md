@@ -115,7 +115,7 @@ This summary effectively is a statement of the important characteristics of the 
 
 
 
-> ## Quiz
+> ## Understanding the loops
 >
 > Given the following loop:
 > ~~~
