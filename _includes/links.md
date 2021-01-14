@@ -10,8 +10,8 @@
 [cran-checkpoint]: https://cran.r-project.org/package=checkpoint
 [cran-knitr]: https://cran.r-project.org/package=knitr
 [cran-stringr]: https://cran.r-project.org/package=stringr
-[dc-lessons]: https://engr-rudn.github.io/pyee01Notes/lessons/
-[email]: mailto:team@carpentries.org
+[dc-lessons]: http://www.datacarpentry.org/lessons/
+[email]: teklay_ty@pfur.ru
 [github-importer]: https://import.github.com/
 [importer]: https://github.com/new/import
 [jekyll-collection]: https://jekyllrb.com/docs/collections/
@@ -21,10 +21,13 @@
 [jupyter]: https://jupyter.org/
 [kramdown]: https://kramdown.gettalong.org/
 [lc-lessons]: https://librarycarpentry.org/lessons/
+[lesson-aio]: {{ relative_root_path }}{% link aio.md %}
 [lesson-coc]: {{ relative_root_path }}{% link CODE_OF_CONDUCT.md %}
 [lesson-example]: https://carpentries.github.io/lesson-example/
 [lesson-license]: {{ relative_root_path }}{% link LICENSE.md %}
 [lesson-mainpage]: {{ relative_root_path }}{% link index.md %}
+[lesson-reference]: {{ relative_root_path }}{% link reference.md %}
+[lesson-setup]: {{ relative_root_path }}{% link setup.md %}
 [mit-license]: https://opensource.org/licenses/mit-license.html
 [morea]: https://morea-framework.github.io/
 [numfocus]: https://numfocus.org/
