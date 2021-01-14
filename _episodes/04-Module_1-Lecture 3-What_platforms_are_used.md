@@ -73,10 +73,6 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-## Quiz
-
-> {: .challenge}
->
 > ## Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape
@@ -90,7 +86,7 @@ This summary effectively is a statement of the important characteristics of the 
 > - Mapping forests on a continental scale.
 >   - Daily monitoring fence conditions on a farm.
 >   - Monitoring an actively burning forest fire that covers about 50ha.
->   - Seasonal monitoring of crop growth and condition in large scale agriculture..
+>   - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > > ## Solution
 > >
