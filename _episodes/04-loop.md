@@ -70,7 +70,7 @@ We still have much to learn about the use of a powerful vehicles such as drones 
 
 First without going into the details of orbital mechanics, it is sufficient to notice that most remote sensing satellites orbit quite close to the Earth's surface, typically between 600,and 900 kilometers. That is referred to as a low earth or LEO orbit. In such an orbit,the satellite takes about 90 minutes to do one complete revolution about the Earth. Here is a neat trick which is fundamental to almost all operational remote sensing missions. The orbits are arranged to be near polar. As such, the earth is rotating Eastwards underneath the satellite, and on each adjacent orbit, the satellite is traveling over a different portion of the earth's surface. The orbital inclination is arranged so that it is possible to have a joining strips of image on each orbital paths. 
 
-![RS02701](G:\Российский Университет Дружбы Народов\Research - General\EuroSat_CNN\Remote Sensing Image Acquisition, Analysis and Applications\fig\RS02701.png)
+![RS02701](..\fig\RS02701.png)
 
 Also on each path, say over the equator, the satellite sees that same local or sun time. Such an orbit is called Sun-synchronous. If the orbit crosses over the equator during the daytime, traveling from North to South, that crossing is called a descending node. A descending node of about mid-morning is chosen for most programs, so that there is also a sufficient shadowing to make topographic detail visible. The sensors carry image directly underneath the satellite so that the forward motion of the platform allows a strip or sways of imagery to be recorded. In order to achieve global imaging, the orbits are arranged to repeat on a given cycle called the repeat cycle. Typical examples are 16days for Landsat and Terra, and 26 days for Pleiades and Spot. So Landsat seven for example, records all of the Earth's surface in 16 days, and does so repetitively. 
 
@@ -80,10 +80,9 @@ This summary effectively is a statement of the important characteristics of the 
 
 > ## Quiz
 >
-> Python has a built-in function called `range` that generates a sequence of numbers. `range` can
-> accept 1, 2, or 3 parameters.
->
-> * If one parameter is given, `range` generates a sequence of that length,
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+> 
+>* If one parameter is given, `range` generates a sequence of that length,
 >   starting at zero and incrementing by 1.
 >   For example, `range(3)` produces the numbers `0, 1, 2`.
 > * If two parameters are given, `range` starts at
@@ -92,25 +91,25 @@ This summary effectively is a statement of the important characteristics of the 
 > * If `range` is given 3 parameters,
 >   it starts at the first one, ends just before the second one, and increments by the third one.
 >   For example, `range(3, 10, 2)` produces `3, 5, 7, 9`.
->
-> Using `range`,
+> 
+>Using `range`,
 > write a loop that uses `range` to print the first 3 natural numbers:
->
-> ~~~
+> 
+>~~~
 > 1
 > 2
 > 3
 > ~~~
 > {: .language-python}
->
-> > ## Solution
+> 
+>> ## Solution
 > > ~~~
 > > for number in range(1, 4):
 > >     print(number)
 > > ~~~
 > > {: .language-python}
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 
 
