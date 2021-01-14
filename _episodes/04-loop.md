@@ -114,35 +114,7 @@ This summary effectively is a statement of the important characteristics of the 
 
 
 
-> ## Understanding the loops
->
-> Given the following loop:
->
-> ~~~
-> word = 'oxygen'
-> for char in word:
->  print(char)
-> ~~~
->
-> {: .language-python}
->
-> How many times is the body of the loop executed?
->
-> * 3 times
-> * 4 times
-> * 5 times
-> * 6 times
->
-> > ## Solution
-> >
-> > The body of the loop is executed 6 times.
-> >
-> > {: .solution}
-> > {: .challenge}
-
-
-
-
+## 
 
 > ## Computing Powers With Loops
 >
