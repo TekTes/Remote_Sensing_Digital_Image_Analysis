@@ -112,6 +112,157 @@ This summary effectively is a statement of the important characteristics of the 
 > {: .solution}
 {: .challenge}
 
+We can call the [loop variable]({{ page.root }}/reference/#loop-variable) anything we like, but
+there must be a colon at the end of the line starting the loop, and we must indent anything we
+want to run inside the loop. Unlike many other languages, there is no command to signify the end
+of the loop body (e.g. `end for`); what is indented after the `for` statement belongs to the loop.
+
+
+> ## What's in a name?
+>
+>
+> In the example above, the loop variable was given the name `char` as a mnemonic;
+> it is short for 'character'.  We can choose any name we want for variables.
+> We can even call our loop variable `banana`, as long as we use this name consistently:
+>
+> ~~~
+> word = 'oxygen'
+> for banana in word:
+>  print(banana)
+> ~~~
+>
+> {: .language-python}
+>
+> ~~~
+> o
+> x
+> y
+> g
+> e
+> n
+> ~~~
+>
+> {: .output}
+>
+> It is a good idea to choose variable names that are meaningful, otherwise it would be more
+> difficult to understand what the loop is doing.
+> {: .callout}
+
+Here's another loop that repeatedly updates a variable:
+
+~~~
+length = 0
+for vowel in 'aeiou':
+    length = length + 1
+print('There are', length, 'vowels')
+~~~
+
+{: .language-python}
+
+~~~
+There are 5 vowels
+~~~
+
+{: .output}
+
+It's worth tracing the execution of this little program step by step.
+Since there are five characters in `'aeiou'`,
+the statement on line 3 will be executed five times.
+The first time around,
+`length` is zero (the value assigned to it on line 1)
+and `vowel` is `'a'`.
+The statement adds 1 to the old value of `length`,
+producing 1,
+and updates `length` to refer to that new value.
+The next time around,
+`vowel` is `'e'` and `length` is 1,
+so `length` is updated to be 2.
+After three more updates,
+`length` is 5;
+since there is nothing left in `'aeiou'` for Python to process,
+the loop finishes
+and the `print` statement on line 4 tells us our final answer.
+
+Note that a loop variable is a variable that's being used to record progress in a loop.
+It still exists after the loop is over,
+and we can re-use variables previously defined as loop variables as well:
+
+~~~
+letter = 'z'
+for letter in 'abc':
+    print(letter)
+print('after the loop, letter is', letter)
+~~~
+
+{: .language-python}
+
+~~~
+a
+b
+c
+after the loop, letter is c
+~~~
+
+{: .output}
+
+Note also that finding the length of a string is such a common operation
+that Python actually has a built-in function to do it called `len`:
+
+~~~
+print(len('aeiou'))
+~~~
+
+{: .language-python}
+
+~~~
+5
+~~~
+
+{: .output}
+
+`len` is much faster than any function we could write ourselves,
+and much easier to read than a two-line loop;
+it will also give us the length of many other things that we haven't met yet,
+so we should always use it when we can.
+
+> ## From 1 to N
+>
+> Python has a built-in function called `range` that generates a sequence of numbers. `range` can
+> accept 1, 2, or 3 parameters.
+>
+> * If one parameter is given, `range` generates a sequence of that length,
+>   starting at zero and incrementing by 1.
+>   For example, `range(3)` produces the numbers `0, 1, 2`.
+> * If two parameters are given, `range` starts at
+>   the first and ends just before the second, incrementing by one.
+>   For example, `range(2, 5)` produces `2, 3, 4`.
+> * If `range` is given 3 parameters,
+>   it starts at the first one, ends just before the second one, and increments by the third one.
+>   For example, `range(3, 10, 2)` produces `3, 5, 7, 9`.
+>
+> Using `range`,
+> write a loop that uses `range` to print the first 3 natural numbers:
+>
+> ~~~
+> 1
+> 2
+> 3
+> ~~~
+>
+> {: .language-python}
+>
+> > ## Solution
+> >
+> > ~~~
+> > for number in range(1, 4):
+> >  print(number)
+> > ~~~
+> >
+> > {: .language-python}
+> > {: .solution}
+> > {: .challenge}
+
+
 
 
 > ## Understanding the loops
