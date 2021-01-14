@@ -25,14 +25,9 @@ inflammation dataset (`inflammation-01.csv`), which revealed some suspicious fea
 
 ### What platforms are used for imaging the earth's surface?
 
-![Analysis of inflammation-01.csv](../fig/03-loop_2_0.png)
+In Lecture 3, we want to look at the platforms that are routinely used for gathering remote sensing imagery. Over the past 40 years or so, the most common platform has been the earth orbiting satellite. Nevertheless, aircraft platforms are often used, and more recently, imaging from drones has become popular. In this lecture, we will say a little about each platform type concentrating on satellites. Since their orbital characteristics are quite specific to the need for operationally monitoring the globe. There are several differences among spacecraft, aircraft, and drones for imaging. Many of which we will explore in the slides to follow. The most obvious though, is that the further one is from the Earth, the greater the area that can be imaged. Whereas based on our own experience, higher spatial resolution would seem to be possible with platforms closer to the Earth's surface. That immediately sets satellites apart from the other two. By using spacecraft platforms, it is technically feasible to image the whole of the Earth's surface in a practical time-frame. Aircraft and drone missions, by comparison, are not global images, but tend to be focused on mission specific areas of interest. We will now look at each of the three platforms in a little more detail.
 
-We have a dozen data sets right now, though, and more on the way.
-We want to create plots for all of our data sets with a single statement.
-To do that, we'll have to teach the computer how to repeat things.
-
-An example task that we might want to repeat is printing each character in a
-word on a line of its own.
+![RS00851](..\fig\RS00851.png)
 
 ~~~
 word = 'lead'
