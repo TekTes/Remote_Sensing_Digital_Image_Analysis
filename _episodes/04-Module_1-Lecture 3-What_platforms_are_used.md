@@ -73,6 +73,41 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
+**of the loop body (e.g. `end for`); what is indented after the `for` statement belongs to the loop.**
+
+
+> ## What's in a name?
+>
+>
+> In the example above, the loop variable was given the name `char` as a mnemonic;
+> it is short for 'character'.  We can choose any name we want for variables.
+> We can even call our loop variable `banana`, as long as we use this name consistently:
+>
+> ~~~
+> word = 'oxygen'
+> for banana in word:
+>  print(banana)
+> ~~~
+>
+> {: .language-python}
+>
+> ~~~
+> o
+> x
+> y
+> g
+> e
+> n
+> ~~~
+>
+> {: .output}
+>
+> It is a good idea to choose variable names that are meaningful, otherwise it would be more
+> difficult to understand what the loop is doing.
+> {: .callout}
+
+**Here's another loop that repeatedly updates a variable:**
+
 > ## Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
