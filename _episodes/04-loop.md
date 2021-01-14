@@ -130,6 +130,8 @@ This summary effectively is a statement of the important characteristics of the 
 > ~~~
 > {: .output}
 >
+> 
+>
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 >
 > - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
