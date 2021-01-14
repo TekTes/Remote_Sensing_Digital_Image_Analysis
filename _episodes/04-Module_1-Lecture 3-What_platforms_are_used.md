@@ -9,7 +9,17 @@ objectives:
 
 
 keypoints:
-- "Understand Remote Sensing Satellites Orbits."
+- "Earth imaging can be carried  out using drones, aircraft or satellites asimaging platforms to view the earth from above.  Satellites allow the greatest field of view, whereas aircraft and drones tend to give the best spatial resolution."
+
+•  "Most general purpose remote sensing satellites are placed in asun-synchronous orbit."
+
+•		"In a sun-synchronous orbit a satellite crosses the equator at the same local time on each orbit."
+
+•   "The point in an orbit where the equator is crossed during the day is called a node: ascending if the travel is from south to north, and descending if the travel is from north to south."
+
+•   "Most remote sensing satellites have a mid-morning descending node, in order to allow sufficient shadowing to reveal geomorphological features."
+
+•   "Remote sensing satellites tend to be at altitudes a little under 1000km, and take about 90 minutes to orbit the earth."
 ---
 
 ## What platforms are used for imaging the earth's surface?
