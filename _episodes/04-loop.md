@@ -112,7 +112,7 @@ This summary effectively is a statement of the important characteristics of the 
 > {: .solution}
 {: .challenge}
 
-
+len is much
 
 
 > ## Understanding the loops
