@@ -18,19 +18,19 @@ In Lecture 3, we want to look at the platforms that are routinely used for gathe
 
 #### TAKING IMAGES OF THE LANDSCAPE
 
-1 - Allow the whole globe to be covered in a given  time.
+1. Allow the whole globe to be covered in a given  time.
 
-2 - Are very stable imaging platforms because they are not moving through an atmosphere.
+2. Are very stable imaging platforms because they are not moving through an atmosphere.
 
-3 - Have to image through the whole column of the atmosphere over the earth's surface. That can lead to radiometric (brightness and contrast) errors in the images recorded.
+3. Have to image through the whole column of the atmosphere over the earth's surface. That can lead to radiometric (brightness and contrast) errors in the images recorded.
 
-4 - Satellites, in general, are expensive to build and launch.
+4.  Satellites, in general, are expensive to build and launch.
 
-5 - The images recorded can meet the needs of many thousands of users.
+5. The images recorded can meet the needs of many thousands of users.
 
-6 - The sensors and their properties are specified in the satellite design and cannot, in general, be changed  once the satellite is in orbit.
+6. The sensors and their properties are specified in the satellite design and cannot, in general, be changed  once the satellite is in orbit.
 
-7 - There is a move  towards clusters of micro-satellites, which are less expensive to build and launch. At present, they tend to be special purpose imaging platforms, rather than general purpose, global imagers.
+7. There is a move  towards clusters of micro-satellites, which are less expensive to build and launch. At present, they tend to be special purpose imaging platforms, rather than general purpose, global imagers.
 
 As listed above,satellites will allow the whole Earth globe to be imaged within a reasonable time frame. Also importantly, they operate above the Earth atmosphere. While that means imaging must be carried out through the atmospheric column, as we discussed in the previous lecture, they benefit from not having to travel through the atmosphere, meaning the platform is quite stable. The atmosphere can often be turbulent. Meaning the platforms that travel through it can have variations in their altitudes and attitudes. That is a point in causing variations in the geometry of recorded images. Nevertheless, imaging through the atmospheric column will introduce brightness and contrast errors into the recorded image data, which often require correction before the image is usable. Because satellite programs are so expensive to develop,build, and launch, the data tends to be made available to many thousands of users and thus tends to be regarded as a common good product. Not withstanding the fact that some countries restrict access to the images recorded by their national programs. The same of course, is true of commercial satellite operators. The user base is very large, even though the products are sold at commercial rights. Two final points should be noted. Because satellites are placed in orbit and thus are not easily revisited. The sensor characteristics are fixed by design when the program was under development. As a consequence, the imaging modality cannot easily be reconfigured. Secondly, there is a move now to clusters of micro satellites for imaging purposes. This approach benefits from the much lower cost of the platforms, and with time will also benefit from collaborative decision-making among the platforms. That is still a little way off. 
 
