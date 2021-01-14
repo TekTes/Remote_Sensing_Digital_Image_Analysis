@@ -1,22 +1,29 @@
 ---
-title: Repeating Actions with Loops
+title: Module 1 Lecture 3
 teaching: 30
 exercises: 0
 questions:
-- "How can I do the same operations on many different values?"
+- "What platforms are used for imaging the earth's surface?"
 objectives:
-- "Explain what a `for` loop does."
-- "Correctly write `for` loops to repeat simple calculations."
-- "Trace changes to a loop variable as the loop runs."
-- "Trace changes to other variables as they are updated by a `for` loop."
+- "Understand important characteristics of the orbit of a remote sensing satellite."
+
+
 keypoints:
-- "Use `for variable in sequence` to process the elements of a sequence one at a time."
-- "The body of a `for` loop must be indented."
-- "Use `len(thing)` to determine the length of something that contains other values."
+- "Earth imaging can be carried  out using drones, aircraft or satellites as imaging platforms to view the earth from above.  Satellites allow the greatest field of view, whereas aircraft and drones tend to give the best spatial resolution."
+- "Most general purpose remote sensing satellites are placed in a sun-synchronous orbit."
+- "In a sun-synchronous orbit a satellite crosses the equator at the same local time on each orbit."
+
+- "The point in an orbit where the equator is crossed during the day is called a node: ascending if the travel is from south to north, and descending if the travel is from north to south."
+
+- "Most remote sensing satellites have a mid-morning descending node, in order to allow sufficient shadowing to reveal geomorphological features."
+
+- "Remote sensing satellites tend to be at altitudes a little under 1000km, and take about 90 minutes to orbit the earth."
 ---
 
 In the last episode, we wrote Python code that plots values of interest from our first
 inflammation dataset (`inflammation-01.csv`), which revealed some suspicious features in it.
+
+### What platforms are used for imaging the earth's surface?
 
 ![Analysis of inflammation-01.csv](../fig/03-loop_2_0.png)
 
