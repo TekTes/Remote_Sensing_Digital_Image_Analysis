@@ -143,10 +143,15 @@ This summary effectively is a statement of the important characteristics of the 
 
 > ## Reverse a String
 >
-> Knowing that two strings can be concatenated using the `+` operator,
-> write a loop that takes a string
-> and produces a new string with the characters in reverse order,
-> so `'Newton'` becomes `'notweN'`.
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+>
+> - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+>
+> - What platform would you choose in each of the following applications?
+>   - Mapping forests on a continental scale.
+>   - Daily monitoring fence conditions on a farm.
+>   - Monitoring an actively burning forest fire that covers about 50ha.
+>   - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > > ## Solution
 > > ~~~
@@ -158,17 +163,23 @@ This summary effectively is a statement of the important characteristics of the 
 > > ~~~
 > > {: .language-python}
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 > ## Computing the Value of a Polynomial
 >
-> The built-in function `enumerate` takes a sequence (e.g. a list) and generates a
-> new sequence of the same length. Each element of the new sequence is a pair composed of the index
-> (0, 1, 2,...) and the value from the original sequence:
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+>
+> - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+>
+> - What platform would you choose in each of the following applications?
+>   - Mapping forests on a continental scale.
+>   - Daily monitoring fence conditions on a farm.
+>   - Monitoring an actively burning forest fire that covers about 50ha.
+>   - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > ~~~
 > for idx, val in enumerate(a_list):
->     # Do something using idx and val
+>  # Do something using idx and val
 > ~~~
 > {: .language-python}
 >
@@ -203,6 +214,6 @@ This summary effectively is a statement of the important characteristics of the 
 > > ~~~
 > > {: .language-python}
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 {% include links.md %}
