@@ -4,9 +4,7 @@ root: .
 permalink: index.html
 ---
 
-The best way to learn how to program is to do something useful,
-so this introduction to Python is built around a common scientific task:
-**data analysis**.
+Welcome to Remote Sensing Image Acquisition, Analysis and Applications, in which we explore the nature of imaging the earth's surface from space or from airborne vehicles. This course covers the fundamental nature of remote sensing and the platforms and sensor types used.  It also provides an in-depth treatment of the computational algorithms employed in image understanding, ranging from the earliest historically important techniques to more recent approaches based on deep learning.   The course material is extensively illustrated by examples and commentary on the how the technology is applied in practice.  It will prepare participants to use the material in their own disciplines and to undertake more detailed study in remote sensing and related topics.
 
 ### Arthritis Inflammation
 We are studying **inflammation in patients** who have been given a new treatment for arthritis, and
