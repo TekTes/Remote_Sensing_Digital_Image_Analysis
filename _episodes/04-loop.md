@@ -80,7 +80,7 @@ This summary effectively is a statement of the important characteristics of the 
 
 > ## Quiz
 >
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features? Landsat 7 takes 16 days to image the whole earth surface. How many orbits does it make in that time? Its orbital period is 98.9 minutes. Python has a built-in function called `range` that generates a sequence of numbers. `range` can
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features? Landsat 7 takes 16 days to image the whole earth surface. How many orbits does it make in that time? Its orbital period is 98.9 minutes. called `range` that generates a sequence of numbers. `range` can
 > accept 1, 2, or 3 parameters.
 >
 > * If one parameter is given, `range` generates a sequence of that length,
