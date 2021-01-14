@@ -80,7 +80,7 @@ This summary effectively is a statement of the important characteristics of the 
 
 > ## Quiz
 >
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features? .
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?. accept 1, 2, or 3 parameters.
 > 
 >* If one parameter is given, `range` generates a sequence of that length,
 >   starting at zero and incrementing by 1.
