@@ -89,8 +89,6 @@ This summary effectively is a statement of the important characteristics of the 
 > >
 > > {: .solution}
 > > {: .challenge}
-> >
-> > {: .callout}
 
 
 
