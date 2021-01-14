@@ -116,7 +116,7 @@ This summary effectively is a statement of the important characteristics of the 
 
 ## 
 
-> ## Computing Powers With Loops
+> ## Quiz
 >
 > Exponentiation is built into Python:
 >
