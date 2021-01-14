@@ -114,15 +114,18 @@ This summary effectively is a statement of the important characteristics of the 
 
 
 
+## 
 
 > ## Understanding the loops
 >
 > Given the following loop:
+>
 > ~~~
 > word = 'oxygen'
 > for char in word:
 >  print(char)
 > ~~~
+>
 > {: .language-python}
 >
 > How many times is the body of the loop executed?
@@ -136,8 +139,8 @@ This summary effectively is a statement of the important characteristics of the 
 > >
 > > The body of the loop is executed 6 times.
 > >
-> {: .solution}
-> {: .challenge}
+> > {: .solution}
+> > {: .challenge}
 
 
 
@@ -148,26 +151,30 @@ This summary effectively is a statement of the important characteristics of the 
 > ~~~
 > print(5 ** 3)
 > ~~~
+>
 > {: .language-python}
 >
 > ~~~
 > 125
 > ~~~
+>
 > {: .output}
 >
 > Write a loop that calculates the same result as `5 ** 3` using
 > multiplication (and without exponentiation).
 >
 > > ## Solution
+> >
 > > ~~~
 > > result = 1
 > > for number in range(0, 3):
-> >     result = result * 5
+> >  result = result * 5
 > > print(result)
 > > ~~~
+> >
 > > {: .language-python}
-> {: .solution}
-> {: .challenge}
+> > {: .solution}
+> > {: .challenge}
 
 > ## Reverse a String
 >
@@ -177,16 +184,18 @@ This summary effectively is a statement of the important characteristics of the 
 > so `'Newton'` becomes `'notweN'`.
 >
 > > ## Solution
+> >
 > > ~~~
 > > newstring = ''
 > > oldstring = 'Newton'
 > > for char in oldstring:
-> >     newstring = char + newstring
+> >  newstring = char + newstring
 > > print(newstring)
 > > ~~~
+> >
 > > {: .language-python}
-> {: .solution}
-> {: .challenge}
+> > {: .solution}
+> > {: .challenge}
 
 > ## Computing the Value of a Polynomial
 >
@@ -198,6 +207,7 @@ This summary effectively is a statement of the important characteristics of the 
 > for idx, val in enumerate(a_list):
 >  # Do something using idx and val
 > ~~~
+>
 > {: .language-python}
 >
 > The code above loops through `a_list`, assigning the index to `idx` and the value to `val`.
@@ -213,24 +223,28 @@ This summary effectively is a statement of the important characteristics of the 
 > y = coefs[0] * x**0 + coefs[1] * x**1 + coefs[2] * x**2
 > print(y)
 > ~~~
+>
 > {: .language-python}
 >
 > ~~~
 > 97
 > ~~~
+>
 > {: .output}
 >
 > Write a loop using `enumerate(coefs)` which computes the value `y` of any
 > polynomial, given `x` and `coefs`.
 >
 > > ## Solution
+> >
 > > ~~~
 > > y = 0
 > > for idx, coef in enumerate(coefs):
-> >     y = y + coef * x**idx
+> >  y = y + coef * x**idx
 > > ~~~
+> >
 > > {: .language-python}
-> {: .solution}
-> {: .challenge}
+> > {: .solution}
+> > {: .challenge}
 
 {% include links.md %}
