@@ -24,7 +24,7 @@ The material in this course has been used in many ways over a number of years in
 
 I do hope you enjoy the course and it fulfills your expectations. I will have a new message for you at the start of each module, highlighting important matters in preparation for what is to come, and focusing on key messages. Remote sensing is a wonderfully exciting field, combining the best aspects of space technology, computer applications, images, and the natural world. It brings together scientists, geologists, engineers, geographers, hydrologists, foresters, surveyors, agronomists, and just about any professional who is engaged in the environment in one way or another. That's what makes it so good, it is a truly interdisciplinary endeavor. 
 
-> Prerequisites
+> ## Prerequisites
 >
 > This is a serious course in remote sensing involving concepts from physics and mathematics. While we have limited the depth of the mathematics as much as possible, a proper understanding of some topics, particularly in module two, is not possible without a mathematical description. And knowledge of calculus, statistics, and vector, and matrix algebra is especially useful for appreciating much of that material. However, there are no mathematical derivations in the assessable material, although there are a few questions in which some formulas need to be described. If you are not strong mathematically, it should still be possible for you to cope with most of the quizzes and the tests for credit.
 > {: .prereq}
