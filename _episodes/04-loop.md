@@ -83,32 +83,34 @@ This summary effectively is a statement of the important characteristics of the 
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?. Python has a built-in function called `range` that generates a sequence of numbers. `range` can
 > accept 1, 2, or 3 parameters.
 >
-> * Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+> * If one parameter is given, `range` generates a sequence of that length,
+>   starting at zero and incrementing by 1.
+>   For example, `range(3)` produces the numbers `0, 1, 2`.
 > * If two parameters are given, `range` starts at
 >   the first and ends just before the second, incrementing by one.
 >   For example, `range(2, 5)` produces `2, 3, 4`.
 > * If `range` is given 3 parameters,
 >   it starts at the first one, ends just before the second one, and increments by the third one.
 >   For example, `range(3, 10, 2)` produces `3, 5, 7, 9`.
-> 
+>
 > Using `range`,
->write a loop that uses `range` to print the first 3 natural numbers:
-> 
+> write a loop that uses `range` to print the first 3 natural numbers:
+>
 > ~~~
->1
+> 1
 > 2
 > 3
 > ~~~
 > {: .language-python}
-> 
+>
 > > ## Solution
->> ~~~
+> > ~~~
 > > for number in range(1, 4):
 > >     print(number)
 > > ~~~
 > > {: .language-python}
 > {: .solution}
-> {: .challenge}
+{: .challenge}
 
 
 
