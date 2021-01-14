@@ -145,13 +145,17 @@ This summary effectively is a statement of the important characteristics of the 
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 >
-> - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+> Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
 >
-> - What platform would you choose in each of the following applications?
->   - Mapping forests on a continental scale.
->   - Daily monitoring fence conditions on a farm.
->   - Monitoring an actively burning forest fire that covers about 50ha.
->   - Seasonal monitoring of crop growth and condition in large scale agriculture.
+> What platform would you choose in each of the following applications?
+>
+> Mapping forests on a continental scale.
+>
+> Daily monitoring fence conditions on a farm.
+>
+> Monitoring an actively burning forest fire that covers about 50ha.
+>
+> Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > > ## Solution
 > > ~~~
@@ -167,15 +171,19 @@ This summary effectively is a statement of the important characteristics of the 
 
 > ## Computing the Value of a Polynomial
 >
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features
 >
-> - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+> Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
 >
-> - What platform would you choose in each of the following applications?
->   - Mapping forests on a continental scale.
->   - Daily monitoring fence conditions on a farm.
->   - Monitoring an actively burning forest fire that covers about 50ha.
->   - Seasonal monitoring of crop growth and condition in large scale agriculture.
+> What platform would you choose in each of the following applications?
+>
+> Mapping forests on a continental scale.
+>
+> Daily monitoring fence conditions on a farm.
+>
+> Monitoring an actively burning forest fire that covers about 50ha.
+>
+> Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > ~~~
 > for idx, val in enumerate(a_list):
