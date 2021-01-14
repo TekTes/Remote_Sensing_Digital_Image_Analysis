@@ -114,9 +114,34 @@ This summary effectively is a statement of the important characteristics of the 
 
 
 
-## 
 
-> ## Quiz
+> ## Understanding the loops
+>
+> Given the following loop:
+> ~~~
+> word = 'oxygen'
+> for char in word:
+>  print(char)
+> ~~~
+> {: .language-python}
+>
+> How many times is the body of the loop executed?
+>
+> * 3 times
+> * 4 times
+> * 5 times
+> * 6 times
+>
+> > ## Solution
+> >
+> > The body of the loop is executed 6 times.
+> >
+> {: .solution}
+> {: .challenge}
+
+
+
+> ## Computing Powers With Loops
 >
 > Exponentiation is built into Python:
 >
@@ -129,6 +154,9 @@ This summary effectively is a statement of the important characteristics of the 
 > 125
 > ~~~
 > {: .output}
+>
+> Write a loop that calculates the same result as `5 ** 3` using
+> multiplication (and without exponentiation).
 >
 > > ## Solution
 > > ~~~
@@ -143,17 +171,10 @@ This summary effectively is a statement of the important characteristics of the 
 
 > ## Reverse a String
 >
-> Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
->
-> What platform would you choose in each of the following applications?
->
-> Mapping forests on a continental scale.
->
-> Daily monitoring fence conditions on a farm.
->
-> Monitoring an actively burning forest fire that covers about 50ha.
->
-> Seasonal monitoring of crop growth and condition in large scale agriculture.
+> Knowing that two strings can be concatenated using the `+` operator,
+> write a loop that takes a string
+> and produces a new string with the characters in reverse order,
+> so `'Newton'` becomes `'notweN'`.
 >
 > > ## Solution
 > > ~~~
@@ -169,7 +190,9 @@ This summary effectively is a statement of the important characteristics of the 
 
 > ## Computing the Value of a Polynomial
 >
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features
+> The built-in function `enumerate` takes a sequence (e.g. a list) and generates a
+> new sequence of the same length. Each element of the new sequence is a pair composed of the index
+> (0, 1, 2,...) and the value from the original sequence:
 >
 > ~~~
 > for idx, val in enumerate(a_list):
