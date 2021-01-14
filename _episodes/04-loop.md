@@ -114,8 +114,6 @@ This summary effectively is a statement of the important characteristics of the 
 
 
 
-## 
-
 > ## Understanding the loops
 >
 > Given the following loop:
