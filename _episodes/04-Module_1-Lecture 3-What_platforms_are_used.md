@@ -71,10 +71,30 @@ Also on each path, say over the equator, the satellite sees that same local or s
 
 The figure above shares a sun-synchronous orbit in a little more detail, this time for each satellite in an ascending node configuration. As seen, the first orbit comes up over the Indian Ocean. The next, the second over Central Africa, and the third over the Atlantic Ocean, just off the African Coast. Note that it is not the orbit of the satellite itself that moves, but the rotation of the earth underneath that orbit. 
 
-![RS03401](..\fig\RS03401.png)
-
 This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-![RS03751](..\fig\RS03751.png)
+## Quiz
+
+> {: .challenge}
+>
+> ## Quiz
+>
+> Would a satellite with a 12 noon descending  node be good for mapping landscape
+>
+> features?
+>
+> - Landsat 7 takes 16 days to image the whole earthsurface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+>
+> - What platform would you choose in each of the following applications?
+>
+> - Mapping forests on a continental scale.
+>   - Daily monitoring fence conditions on a farm.
+>   - Monitoring an actively burning forest fire that covers about 50ha.
+>   - Seasonal monitoring of crop growth and condition in large scale agriculture..
+>
+> > ## Solution
+> >
+> > {: .solution}
+> > {: .challenge}
 
 {% include links.md %}
