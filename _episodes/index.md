@@ -26,7 +26,7 @@ I do hope you enjoy the course and it fulfills your expectations. I will have a 
 
 > ## Prerequisites
 >
-> **You** This is a serious course in remote sensing involving concepts from physics and mathematics. While we have limited the depth of the mathematics as much as possible, a proper understanding of some topics, particularly in module two, is not possible without a mathematical description. And knowledge of calculus, statistics, and vector, and matrix algebra is especially useful for appreciating much of that material. However, there are no mathematical derivations in the assessable material, although there are a few questions in which some formulas need to be described. If you are not strong mathematically, it should still be possible for you to cope with most of the quizzes and the tests for credit. 
+> This is a serious course in remote sensing involving concepts from physics and mathematics. While we have limited the depth of the mathematics as much as possible, a proper understanding of some topics, particularly in module two, is not possible without a mathematical description. And knowledge of calculus, statistics, and vector, and matrix algebra is especially useful for appreciating much of that material. However, there are no mathematical derivations in the assessable material, although there are a few questions in which some formulas need to be described. If you are not strong mathematically, it should still be possible for you to cope with most of the quizzes and the tests for credit. 
 > 
 > This course sometimes references Jupyter Notebook although you can use any Python interpreter mentioned in the [Setup](setup/).
 >
