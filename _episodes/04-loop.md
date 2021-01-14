@@ -112,17 +112,18 @@ This summary effectively is a statement of the important characteristics of the 
 > {: .solution}
 {: .challenge}
 
-len is much
 
 
 > ## Understanding the loops
 >
 > Given the following loop:
+>
 > ~~~
 > word = 'oxygen'
 > for char in word:
 >  print(char)
 > ~~~
+>
 > {: .language-python}
 >
 > How many times is the body of the loop executed?
@@ -136,8 +137,10 @@ len is much
 > >
 > > The body of the loop is executed 6 times.
 > >
-> {: .solution}
-> {: .challenge}
+> > {: .solution}
+> > {: .challenge}
+
+
 
 
 
