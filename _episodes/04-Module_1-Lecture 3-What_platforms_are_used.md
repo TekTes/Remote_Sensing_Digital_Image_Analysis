@@ -75,12 +75,12 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 The summary at the bottom of this page is effectively a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-> ### Quiz
+> ## `Quiz`
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
->
-> - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
->
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+> Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  
+> Its orbital period is 98.9 minutes.
 > - What platform would you choose in each of the following applications?
 >   - Mapping forests on a continental scale.
 >   - Daily monitoring fence conditions on a farm.
@@ -88,12 +88,9 @@ The summary at the bottom of this page is effectively a statement of the importa
 >   - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > > ### Solution
-> >
-> > ```
+>
 > > This is a place holder of the solution.
-> > ```
-> >
-> > {: .solution}
-> > {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
