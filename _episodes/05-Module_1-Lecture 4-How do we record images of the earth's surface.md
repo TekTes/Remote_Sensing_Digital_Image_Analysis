@@ -53,8 +53,6 @@ Now that we have seen how images can be recorded, we can summarize their importa
 
 ![tech_char](..\fig\tech_char.gif)
 
-## Quiz
-
 > ## Quiz
 >
 > 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning mirrors.  Why?
@@ -65,15 +63,6 @@ Now that we have seen how images can be recorded, we can summarize their importa
 >
 >    {: .callout}
 >
-> > ## Solution
-> >
-> > ~~~
-> > 
-> > ~~~
-> >
-> > {: .language-python}
-> > {: .solution}
-> > {: .challenge}
 
 
 
