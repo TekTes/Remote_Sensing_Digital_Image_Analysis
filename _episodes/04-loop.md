@@ -78,40 +78,6 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-> ## Quiz
->
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features? Landsat 7 takes 16 days to image the whole earth surface. How many orbits does it make in that time? Its orbital period is 98.9 minutes. called `range` that generates a sequence of numbers. `range` can
-> accept 1, 2, or 3 parameters.
->
-> * If one parameter is given, `range` generates a sequence of that length,
->   starting at zero and incrementing by 1.
->   For example, `range(3)` produces the numbers `0, 1, 2`.
-> * If two parameters are given, `range` starts at
->   the first and ends just before the second, incrementing by one.
->   For example, `range(2, 5)` produces `2, 3, 4`.
-> * If `range` is given 3 parameters,
->   it starts at the first one, ends just before the second one, and increments by the third one.
->   For example, `range(3, 10, 2)` produces `3, 5, 7, 9`.
->
-> Using `range`,
-> write a loop that uses `range` to print the first 3 natural numbers:
->
-> ~~~
-> 1
-> 2
-> 3
-> ~~~
-> {: .language-python}
->
-> > ## Solution
-> > ~~~
-> > for number in range(1, 4):
-> >     print(number)
-> > ~~~
-> > {: .language-python}
-> {: .solution}
-{: .challenge}
-
 In the last episode, we wrote Python code that plots values of interest from our first
 inflammation dataset (`inflammation-01.csv`), which revealed some suspicious features in it.
 
@@ -546,5 +512,41 @@ so we should always use it when we can.
 > > {: .language-python}
 > > {: .solution}
 > > {: .challenge}
+
+> ## Quiz
+>
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features? Landsat 7 takes 16 days to image the whole earth surface. How many orbits does it make in that time? Its orbital period is 98.9 minutes. called `range` that generates a sequence of numbers. `range` can
+> accept 1, 2, or 3 parameters.
+>
+> * If one parameter is given, `range` generates a sequence of that length,
+>   starting at zero and incrementing by 1.
+>   For example, `range(3)` produces the numbers `0, 1, 2`.
+> * If two parameters are given, `range` starts at
+>   the first and ends just before the second, incrementing by one.
+>   For example, `range(2, 5)` produces `2, 3, 4`.
+> * If `range` is given 3 parameters,
+>   it starts at the first one, ends just before the second one, and increments by the third one.
+>   For example, `range(3, 10, 2)` produces `3, 5, 7, 9`.
+>
+> Using `range`,
+> write a loop that uses `range` to print the first 3 natural numbers:
+>
+> ~~~
+> 1
+> 2
+> 3
+> ~~~
+> {: .language-python}
+>
+> > ## Solution
+> > ~~~
+> > for number in range(1, 4):
+> >     print(number)
+> > ~~~
+> > {: .language-python}
+> {: .solution}
+{: .challenge}
+
+
 
 {% include links.md %}
