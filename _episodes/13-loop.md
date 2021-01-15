@@ -166,7 +166,7 @@ want to run inside the loop. Unlike many other languages, there is no command to
 of the loop body (e.g. `end for`); what is indented after the `for` statement belongs to the loop.
 
 
-> ## What's in a name?
+> ## Quiz?
 >
 >
 > In the example above, the loop variable was given the name `char` as a mnemonic;
@@ -265,7 +265,7 @@ and much easier to read than a two-line loop;
 it will also give us the length of many other things that we haven't met yet,
 so we should always use it when we can.
 
-> ## From 1 to N
+> ## Quiz
 >
 > Python has a built-in function called `range` that generates a sequence of numbers. `range` can
 > accept 1, 2, or 3 parameters.
@@ -302,7 +302,7 @@ so we should always use it when we can.
 
 
 
-> ## Understanding the loops
+> ## Quiz
 >
 > Given the following loop:
 > ~~~
@@ -328,7 +328,7 @@ so we should always use it when we can.
 
 
 
-> ## Computing Powers With Loops
+> ## Quiz
 >
 > Exponentiation is built into Python:
 >
@@ -356,7 +356,7 @@ so we should always use it when we can.
 > {: .solution}
 {: .challenge}
 
-> ## Reverse a String
+> ## Quiz
 >
 > Knowing that two strings can be concatenated using the `+` operator,
 > write a loop that takes a string
@@ -375,7 +375,7 @@ so we should always use it when we can.
 > {: .solution}
 {: .challenge}
 
-> ## Computing the Value of a Polynomial
+> ## Quiz
 >
 > The built-in function `enumerate` takes a sequence (e.g. a list) and generates a
 > new sequence of the same length. Each element of the new sequence is a pair composed of the index
