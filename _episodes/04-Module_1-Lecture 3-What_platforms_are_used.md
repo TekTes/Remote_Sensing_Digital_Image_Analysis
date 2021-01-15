@@ -94,8 +94,8 @@ The summary at the bottom of this page is effectively a statement of the importa
 >   - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > > ## Solution
-> > C gets printed because the first two conditions, `4 > 5` and `4 == 5`, are not true,
-> > but `4 < 5` is true.
+> > ???
+> > ???
 > {: .solution}
 {: .challenge}
 
