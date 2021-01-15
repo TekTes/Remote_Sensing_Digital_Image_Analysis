@@ -73,7 +73,7 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-> ## Quiz
+> ### Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 >
@@ -85,78 +85,12 @@ This summary effectively is a statement of the important characteristics of the 
 >   - Monitoring an actively burning forest fire that covers about 50ha.
 >   - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
-> > ## Solution
+> > ### Solution
 > >
 > > ```
 > > This is a place holder of the solution.
 > > ```
 > >
-> > {: .solution}
-> > {: .challenge}
-
-> ## Quiz
->
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
->
-> > ## Solution
-> >
-> > ~~~
-> > newstring = ''
-> > oldstring = 'Newton'
-> > for char in oldstring:
-> >  newstring = char + newstring
-> > print(newstring)
-> > ~~~
-> >
-> > {: .language-python}
-> > {: .solution}
-> > {: .challenge}
-
-> ## Quiz
->
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
->
-> ~~~
-> for idx, val in enumerate(a_list):
->  # Do something using idx and val
-> ~~~
->
-> {: .language-python}
->
-> The code above loops through `a_list`, assigning the index to `idx` and the value to `val`.
->
-> Suppose you have encoded a polynomial as a list of coefficients in
-> the following way: the first element is the constant term, the
-> second element is the coefficient of the linear term, the third is the
-> coefficient of the quadratic term, etc.
->
-> ~~~
-> x = 5
-> coefs = [2, 4, 3]
-> y = coefs[0] * x**0 + coefs[1] * x**1 + coefs[2] * x**2
-> print(y)
-> ~~~
->
-> {: .language-python}
->
-> ~~~
-> 97
-> ~~~
->
-> {: .output}
->
-> Write a loop using `enumerate(coefs)` which computes the value `y` of any
-> polynomial, given `x` and `coefs`.
->
-> > ## Solution
-> >
-> > ~~~
-> > y = 0
-> > for idx, coef in enumerate(coefs):
-> >  y = y + coef * x**idx
-> > ~~~
-> >
-> > {: .language-python}
 > > {: .solution}
 > > {: .challenge}
 
