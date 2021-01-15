@@ -302,10 +302,20 @@ so we should always use it when we can.
 > ## Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+>
+> Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+>
+> What platform would you choose in each of the following applications?
+>
+> - Mapping forests on a continental scale.
+> - Daily monitoring fence conditions on a farm.
+> - Monitoring an actively burning forest fire that covers about 50ha.
+> - Seasonal monitoring of crop growth and condition in large scale agriculture.
+>
 > ~~~
 > word = 'oxygen'
 > for char in word:
->     print(char)
+>  print(char)
 > ~~~
 > {: .language-python}
 >
@@ -321,13 +331,22 @@ so we should always use it when we can.
 > > The body of the loop is executed 6 times.
 > >
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 
 
 > ## Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+>
+> Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+>
+> What platform would you choose in each of the following applications?
+>
+> - Mapping forests on a continental scale.
+> - Daily monitoring fence conditions on a farm.
+> - Monitoring an actively burning forest fire that covers about 50ha.
+> - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > ~~~
 > print(5 ** 3)
@@ -351,7 +370,7 @@ so we should always use it when we can.
 > > ~~~
 > > {: .language-python}
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 > ## Quiz
 >
