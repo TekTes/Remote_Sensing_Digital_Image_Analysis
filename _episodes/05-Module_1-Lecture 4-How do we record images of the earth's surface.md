@@ -53,52 +53,15 @@ Now that we have seen how images can be recorded, we can summarize their importa
 
 ![tech_char](..\fig\tech_char.gif)
 
-This is for test
-
-while `or` is true if at least one part is true:
-
-~~~
-if (1 < 0) or (-1 < 0):
-    print('at least one test is true')
-~~~
-
-{: .language-python}
-
-~~~
-at least one test is true
-~~~
-
-{: .output}
-
-> ## `True` and `False`
->
-> `True` and `False` are special words in Python called `booleans`,
-> which represent truth values. A statement such as `1 < 0` returns
-> the value `False`, while `-1 < 0` returns the value `True`.
-> {: .callout}
-
 > ## Quiz
 >
-> 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning mirrors.  Why?
+> 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning 
+> mirrors.  Why?
 >
-> 2. With  aircraft systems, why is IFOV a more  meaningful term than pixel size? Has it to do with the flying height?
->
-> 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
->
->    {: .callout}
->
-
-
-
-> ## Quiz
->
-> 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning mirrors.  Why?
->
-> 2. With  aircraft systems, why is IFOV a more  meaningful term than pixel size? Has it to do with the flying height?
+> 2. With  aircraft systems, why is IFOV a more  meaningful term than pixel size? Has it to do with the
+> flying height?
 >
 > 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
->
->    {: .callout}
 >
 > > ## Solution
 > >
