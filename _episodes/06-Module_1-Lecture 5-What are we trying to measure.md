@@ -42,8 +42,8 @@ The above figure shows how the three simple fundamental earth-covered types of v
 > >
 > > ???
 > > ???
-> > {: .solution}
-> > {: .challenge}
+> {: .solution}
+{: .challenge}
 
  {% include links.md %}
 
