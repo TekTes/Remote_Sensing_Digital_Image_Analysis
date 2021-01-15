@@ -94,77 +94,69 @@ This summary effectively is a statement of the important characteristics of the 
 > > {: .solution}
 > > {: .challenge}
 
-.
-
 > ## Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 >
-> * If one parameter is given, `range` generates a sequence of that length,
->   starting at zero and incrementing by 1.
->   For example, `range(3)` produces the numbers `0, 1, 2`.
-> * If two parameters are given, `range` starts at
->   the first and ends just before the second, incrementing by one.
->   For example, `range(2, 5)` produces `2, 3, 4`.
-> * If `range` is given 3 parameters,
->   it starts at the first one, ends just before the second one, and increments by the third one.
->   For example, `range(3, 10, 2)` produces `3, 5, 7, 9`.
->
-> Using `range`,
-> write a loop that uses `range` to print the first 3 natural numbers:
->
-> ~~~
-> 1
-> 2
-> 3
-> ~~~
->
-> {: .language-python}
->
 > > ## Solution
 > >
 > > ~~~
-> > for number in range(1, 4):
-> >  print(number)
+> > newstring = ''
+> > oldstring = 'Newton'
+> > for char in oldstring:
+> >  newstring = char + newstring
+> > print(newstring)
 > > ~~~
 > >
 > > {: .language-python}
 > > {: .solution}
 > > {: .challenge}
 
-
 > ## Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 >
-> Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
->
-> What platform would you choose in each of the following applications?
->
-> - Mapping forests on a continental scale.
-> - Daily monitoring fence conditions on a farm.
-> - Monitoring an actively burning forest fire that covers about 50ha.
-> - Seasonal monitoring of crop growth and condition in large scale agriculture.
->
 > ~~~
-> word = 'oxygen'
-> for char in word:
->  print(char)
+> for idx, val in enumerate(a_list):
+>  # Do something using idx and val
 > ~~~
 >
 > {: .language-python}
 >
-> How many times is the body of the loop executed?
+> The code above loops through `a_list`, assigning the index to `idx` and the value to `val`.
 >
-> * 3 times
-> * 4 times
-> * 5 times
-> * 6 times
+> Suppose you have encoded a polynomial as a list of coefficients in
+> the following way: the first element is the constant term, the
+> second element is the coefficient of the linear term, the third is the
+> coefficient of the quadratic term, etc.
+>
+> ~~~
+> x = 5
+> coefs = [2, 4, 3]
+> y = coefs[0] * x**0 + coefs[1] * x**1 + coefs[2] * x**2
+> print(y)
+> ~~~
+>
+> {: .language-python}
+>
+> ~~~
+> 97
+> ~~~
+>
+> {: .output}
+>
+> Write a loop using `enumerate(coefs)` which computes the value `y` of any
+> polynomial, given `x` and `coefs`.
 >
 > > ## Solution
 > >
-> > The body of the loop is executed 6 times.
+> > ~~~
+> > y = 0
+> > for idx, coef in enumerate(coefs):
+> >  y = y + coef * x**idx
+> > ~~~
 > >
+> > {: .language-python}
 > > {: .solution}
 > > {: .challenge}
 
