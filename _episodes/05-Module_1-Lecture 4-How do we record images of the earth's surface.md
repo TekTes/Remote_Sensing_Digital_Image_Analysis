@@ -31,7 +31,7 @@ In this lecture, we will look at the three most common types of image scanner.
 
 The line scanner. The earliest digital imager was a line scanner, a technology which is still in use today. It uses that mirror to scan across the path of the satellite, as shown in the slide, in order to focus strips of the Earth's surface onto a detector carried on the platform. 
 
-![Module-1-Lecture-4](..\fig\Module-1-Lecture-4_cropped.gif)
+![Line Scanner](..\fig\line_Scanner.gif)
 
 By design, the rate at which the mirror scans and the forward velocity of the satellite, are arranged so that consecutive scan lines are adjacent to each other. And together form an image, as the satellite traces out its path. The mirror has to oscillate from side to side. 
 

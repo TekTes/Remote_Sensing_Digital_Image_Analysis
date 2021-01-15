@@ -57,9 +57,13 @@ We still have much to learn about the use of a powerful vehicles such as drones 
 
 First without going into the details of orbital mechanics, it is sufficient to notice that most remote sensing satellites orbit quite close to the Earth's surface, typically between 600,and 900 kilometers. That is referred to as a low earth or LEO orbit. In such an orbit,the satellite takes about 90 minutes to do one complete revolution about the Earth. Here is a neat trick which is fundamental to almost all operational remote sensing missions. The orbits are arranged to be near polar. As such, the earth is rotating Eastwards underneath the satellite, and on each adjacent orbit, the satellite is traveling over a different portion of the earth's surface. The orbital inclination is arranged so that it is possible to have a joining strips of image on each orbital paths. 
 
-![sun-sync_orbit](..\fig\sun-sync_orbit.gif)
+![orbit_repeat_cycles](..\fig\orbit_repeat_cycles.png)
+
+
 
 Also on each path, say over the equator, the satellite sees that same local or sun time. Such an orbit is called Sun-synchronous. If the orbit crosses over the equator during the daytime, traveling from North to South, that crossing is called a descending node. A descending node of about mid-morning is chosen for most programs, so that there is also a sufficient shadowing to make topographic detail visible. The sensors carry image directly underneath the satellite so that the forward motion of the platform allows a strip or sways of imagery to be recorded. In order to achieve global imaging, the orbits are arranged to repeat on a given cycle called the repeat cycle. Typical examples are 16days for Landsat and Terra, and 26 days for Pleiades and Spot. So Landsat seven for example, records all of the Earth's surface in 16 days, and does so repetitively. 
+
+![sun-sync_orbit](..\fig\sun-sync_orbit.gif)
 
 The figure above shares a sun-synchronous orbit in a little more detail, this time for each satellite in an ascending node configuration. As seen, the first orbit comes up over the Indian Ocean. The next, the second over Central Africa, and the third over the Atlantic Ocean, just off the African Coast. Note that it is not the orbit of the satellite itself that moves, but the rotation of the earth underneath that orbit. 
 
