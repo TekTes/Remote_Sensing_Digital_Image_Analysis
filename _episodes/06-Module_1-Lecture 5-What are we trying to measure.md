@@ -71,14 +71,12 @@ There is a very famous law called Planck's radiation law, which describes how a 
 
 Planck's law is described by an equation, that allows us to plot radiation curves as a function of wavelength and temperature.
 
-```tex
- \begin{equation*}
+$$ \begin{equation*}
     \rho(\omega, T)
     =
     \cfrac{\hbar \omega^3}{\pi^2 c^3}
-    \frac{1}{\exp\bigBracket{\frac{\hbar \omega}{k_BT}} - 1},
-    \end{equation*}
-```
+    \frac{1}{\exp\bigBracket{\frac{\hbar \omega}{k_BT}} - 1}
+    \end{equation*}$$
 
 In this slide, we show three examples of Planck's radiation law in practice. The first example is for the sun, whose surface temperature is taken to be 5,950K. 
 
