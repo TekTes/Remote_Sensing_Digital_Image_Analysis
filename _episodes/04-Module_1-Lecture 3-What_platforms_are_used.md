@@ -87,7 +87,7 @@ The summary at the bottom of this page is effectively a statement of the importa
 >   - Monitoring an actively burning forest fire that covers about 50ha.
 >   - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
-> > ### Solution
+> > ## Solution
 >
 > > This is a place holder of the solution.
 > {: .solution}
