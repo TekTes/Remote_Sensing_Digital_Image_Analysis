@@ -78,6 +78,21 @@ $$ \begin{equation*}
     \frac{1}{\exp\bigBracket{\frac{\hbar \omega}{k_BT}} - 1}
     \end{equation*}$$
 
+
+
+```
+I can haz equations. Inline equations, such as the average is computed as $\frac{1}{n} \sum_{i=1}^{n} x_{i}$. Or display equations like this:
+
+$$
+\begin{equation*}
+|x|=
+\begin{cases} x & \text{if $x\ge 0$,} \\
+-x &\text{if $x\lt 0$.}
+\end{cases}
+\end{equation*}
+$$
+```
+
 In this slide, we show three examples of Planck's radiation law in practice. The first example is for the sun, whose surface temperature is taken to be 5,950K. 
 
 The second is for the earth, which has a temperature of approximately 300K. 
