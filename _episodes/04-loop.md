@@ -82,38 +82,23 @@ This summary effectively is a statement of the important characteristics of the 
 
 > ## Quiz
 >
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features? Landsat 7 takes 16 days to image the whole earth surface. How many orbits does it make in that time? Its orbital period is 98.9 minutes. called `range` that generates a sequence of numbers. `range` can
-> accept 1, 2, or 3 parameters.
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features? 
 >
-> * Landsat 7 takes 16 days to image the whole earth surface. How many orbits does it make in that time? its orbital period is 98.9 minutes. If one parameter is given, `range` generates a sequence of that length,
->   starting at zero and incrementing by 1.
->   For example, `range(3)` produces the numbers `0, 1, 2`.
-> * What platform would you choose in each of the following applications?If two parameters are given, `range` starts at
->   the first and ends just before the second, incrementing by one.
->   For example, `range(2, 5)` produces `2, 3, 4`.
-> * Mapping forests on a continental scale. If `range` is given 3 parameters,
->   it starts at the first one, ends just before the second one, and increments by the third one.
-> * Daily monitoring fence conditions on a farm.For example, `range(3, 10, 2)` produces `3, 5, 7, 9`.
+> Landsat 7 takes 16 days to image the whole earth surface. How many orbits does it make in that time? Its orbital period is 98.9 minutes. 
+>
+> What platform would you choose in each of the following applications?
+>
+> * Mapping forests on a continental scale.
+> * Daily monitoring fence conditions on a farm.
 > * Monitoring an actively burning forest fire that covers about 50ha.
 > * Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
-> Using `range`,
-> write a loop that uses `range` to print the first 3 natural numbers:
->
-> ~~~
-> 1
-> 2
-> 3
-> ~~~
-> {: .language-python}
->
 > > ## Solution
 > > ~~~
-> > for number in range(1, 4):
-> >     print(number)
-> > ~~~
+> > 
+> >    ~~~
 > > {: .language-python}
-> {: .solution}
+> > {: .solution}
 > {: .challenge}
 
 
