@@ -78,27 +78,69 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-> ## Quiz
+> ## What's in a name?
 >
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features? 
 >
-> Landsat 7 takes 16 days to image the whole earth surface. How many orbits does it make in that time? Its orbital period is 98.9 minutes. 
+> In the example above, the loop variable was given the name `char` as a mnemonic;
+> it is short for 'character'.  We can choose any name we want for variables.
+> We can even call our loop variable `banana`, as long as we use this name consistently:
 >
-> What platform would you choose in each of the following applications?
+> ~~~
+> word = 'oxygen'
+> for banana in word:
+>  print(banana)
+> ~~~
 >
-> * Mapping forests on a continental scale.
-> * Daily monitoring fence conditions on a farm.
-> * Monitoring an actively burning forest fire that covers about 50ha.
-> * Seasonal monitoring of crop growth and condition in large scale agriculture.
+> {: .language-python}
 >
-> > ## Solution
-> > ~~~
-> > 
-> > ~~~
-> >
-> > {: .solution}
-> > {: .challenge}
+> ~~~
+> o
+> x
+> y
+> g
+> e
+> n
+> ~~~
+>
+> {: .output}
+>
+> It is a good idea to choose variable names that are meaningful, otherwise it would be more
+> difficult to understand what the loop is doing.
+> {: .callout}
 
+Here's another loop that repeatedly updates a variable:
 
+~~~
+length = 0
+for vowel in 'aeiou':
+    length = length + 1
+print('There are', length, 'vowels')
+~~~
+
+{: .language-python}
+
+~~~
+There are 5 vowels
+~~~
+
+{: .output}
+
+It's worth tracing the execution of this little program step by step.
+Since there are five characters in `'aeiou'`,
+the statement on line 3 will be executed five times.
+The first time around,
+`length` is zero (the value assigned to it on line 1)
+and `vowel` is `'a'`.
+The statement adds 1 to the old value of `length`,
+producing 1,
+and updates `length` to refer to that new value.
+The next time around,
+`vowel` is `'e'` and `length` is 1,
+so `length` is updated to be 2.
+After three more updates,
+`length` is 5;
+since there is nothing left in `'aeiou'` for Python to process,
+the loop finishes
+and the `print` statement on line 4 tells us our final answer.
 
 {% include links.md %}
