@@ -169,19 +169,17 @@ of the loop body (e.g. `end for`); what is indented after the `for` statement be
 > ## Quiz?
 >
 >
-> In the example above, the loop variable was given the name `char` as a mnemonic;
-> it is short for 'character'.  We can choose any name we want for variables.
-> We can even call our loop variable `banana`, as long as we use this name consistently:
->
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+> 
 > ~~~
-> word = 'oxygen'
+>word = 'oxygen'
 > for banana in word:
->     print(banana)
+>  print(banana)
 > ~~~
-> {: .language-python}
->
+>    {: .language-python}
+> 
 > ~~~
-> o
+>o
 > x
 > y
 > g
@@ -189,10 +187,10 @@ of the loop body (e.g. `end for`); what is indented after the `for` statement be
 > n
 > ~~~
 > {: .output}
->
+> 
 > It is a good idea to choose variable names that are meaningful, otherwise it would be more
-> difficult to understand what the loop is doing.
-{: .callout}
+>difficult to understand what the loop is doing.
+> {: .callout}
 
 Here's another loop that repeatedly updates a variable:
 
@@ -267,10 +265,9 @@ so we should always use it when we can.
 
 > ## Quiz
 >
-> Python has a built-in function called `range` that generates a sequence of numbers. `range` can
-> accept 1, 2, or 3 parameters.
->
-> * If one parameter is given, `range` generates a sequence of that length,
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+> 
+>* If one parameter is given, `range` generates a sequence of that length,
 >   starting at zero and incrementing by 1.
 >   For example, `range(3)` produces the numbers `0, 1, 2`.
 > * If two parameters are given, `range` starts at
@@ -279,32 +276,32 @@ so we should always use it when we can.
 > * If `range` is given 3 parameters,
 >   it starts at the first one, ends just before the second one, and increments by the third one.
 >   For example, `range(3, 10, 2)` produces `3, 5, 7, 9`.
->
-> Using `range`,
+> 
+>Using `range`,
 > write a loop that uses `range` to print the first 3 natural numbers:
->
-> ~~~
+> 
+>~~~
 > 1
 > 2
 > 3
 > ~~~
 > {: .language-python}
->
-> > ## Solution
+> 
+>> ## Solution
 > > ~~~
 > > for number in range(1, 4):
 > >     print(number)
 > > ~~~
 > > {: .language-python}
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 
 
 
 > ## Quiz
 >
-> Given the following loop:
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 > ~~~
 > word = 'oxygen'
 > for char in word:
@@ -330,7 +327,7 @@ so we should always use it when we can.
 
 > ## Quiz
 >
-> Exponentiation is built into Python:
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 >
 > ~~~
 > print(5 ** 3)
@@ -358,14 +355,11 @@ so we should always use it when we can.
 
 > ## Quiz
 >
-> Knowing that two strings can be concatenated using the `+` operator,
-> write a loop that takes a string
-> and produces a new string with the characters in reverse order,
-> so `'Newton'` becomes `'notweN'`.
->
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+> 
 > > ## Solution
 > > ~~~
-> > newstring = ''
+>> newstring = ''
 > > oldstring = 'Newton'
 > > for char in oldstring:
 > >     newstring = char + newstring
@@ -373,51 +367,49 @@ so we should always use it when we can.
 > > ~~~
 > > {: .language-python}
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 > ## Quiz
 >
-> The built-in function `enumerate` takes a sequence (e.g. a list) and generates a
-> new sequence of the same length. Each element of the new sequence is a pair composed of the index
-> (0, 1, 2,...) and the value from the original sequence:
->
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+> 
 > ~~~
-> for idx, val in enumerate(a_list):
->     # Do something using idx and val
+>for idx, val in enumerate(a_list):
+>  # Do something using idx and val
 > ~~~
-> {: .language-python}
->
+>    {: .language-python}
+> 
 > The code above loops through `a_list`, assigning the index to `idx` and the value to `val`.
 >
 > Suppose you have encoded a polynomial as a list of coefficients in
-> the following way: the first element is the constant term, the
+>the following way: the first element is the constant term, the
 > second element is the coefficient of the linear term, the third is the
 > coefficient of the quadratic term, etc.
->
+> 
 > ~~~
-> x = 5
+>x = 5
 > coefs = [2, 4, 3]
 > y = coefs[0] * x**0 + coefs[1] * x**1 + coefs[2] * x**2
 > print(y)
 > ~~~
 > {: .language-python}
->
+> 
 > ~~~
-> 97
+>97
 > ~~~
 > {: .output}
->
+> 
 > Write a loop using `enumerate(coefs)` which computes the value `y` of any
-> polynomial, given `x` and `coefs`.
->
+>polynomial, given `x` and `coefs`.
+> 
 > > ## Solution
-> > ~~~
+>> ~~~
 > > y = 0
 > > for idx, coef in enumerate(coefs):
 > >     y = y + coef * x**idx
 > > ~~~
 > > {: .language-python}
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 {% include links.md %}
