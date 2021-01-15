@@ -26,6 +26,8 @@ In this lecture, we will look at the three most common types of image scanner.
 
 The line scanner. The earliest digital imager was a line scanner, a technology which is still in use today. It uses that mirror to scan across the path of the satellite, as shown in the slide, in order to focus strips of the Earth's surface onto a detector carried on the platform. 
 
+![Module-1-Lecture-4](..\fig\Module-1-Lecture-4.gif)
+
 By design, the rate at which the mirror scans and the forward velocity of the satellite, are arranged so that consecutive scan lines are adjacent to each other. And together form an image, as the satellite traces out its path. The mirror has to oscillate from side to side. 
 
 In sensors like the Landsat multispectral scanner, upwelling radiation from the landscape is detected on the forward scan of the mirror. The mirror then resets to the opposite side of the satellite track, ready for the next scan. By contrast, the Landsat Thematic Mapper and its later variants, records data on both the forward and reverse scans. Sometimes, particularly in early aircraft sensors, a rotating mirror is used. This slide also introduces some important definitions. First, the width of the image recorded is called the swath. It is defined by the field of view, or FOV, of the sensor, which is the total angle over which it scans. The resolution of the sensor or scanner is called the instantaneous field of view, or IFOV. Again, this is defined by an angle which, when projected onto the surface, defines the pixel size in or the spatial resolution of, the recorded image. Most often the IFOV is the same in the along track and cross track directions. 
