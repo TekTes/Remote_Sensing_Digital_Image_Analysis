@@ -1,3 +1,14 @@
+title: All Modules
+teaching: 30
+exercises: 0
+questions:
+
+- "?"
+
+
+keypoints:
+- "?"
+
 ### Module 1 Lecture 4 How do we record images of the earth's surface?
 
 In this lecture, we want to examine how images of the earth surface are recorded. 
