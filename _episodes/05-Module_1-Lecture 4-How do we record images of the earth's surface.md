@@ -64,12 +64,9 @@ Now that we have seen how images can be recorded, we can summarize their importa
 > 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
 >
 > > ## Solution
-> 
-> > ~~~
-> > 
-> > ~~~
-> 
-> > {: .solution}
+> > C gets printed because the first two conditions, `4 > 5` and `4 == 5`, are not true,
+> > but `4 < 5` is true.
+> {: .solution}
 {: .challenge}
 
  {% include links.md %}
