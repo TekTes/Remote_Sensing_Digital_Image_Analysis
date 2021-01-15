@@ -81,7 +81,7 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 The summary at the bottom of this page is effectively a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-> ## `Quiz`
+> ## Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
