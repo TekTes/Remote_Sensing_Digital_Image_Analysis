@@ -78,8 +78,8 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-> ## What's in a name?
->
+## What's in a name?
+
 >
 > In the example above, the loop variable was given the name `char` as a mnemonic;
 > it is short for 'character'.  We can choose any name we want for variables.
