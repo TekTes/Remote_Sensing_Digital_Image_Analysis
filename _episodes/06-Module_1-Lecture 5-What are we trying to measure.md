@@ -79,8 +79,6 @@ In this slide, we show three examples of Planck's radiation law in practice.
 - The second is for the earth, which has a temperature of approximately 300K. 
 - The third is for an object with a temperature of 1,000K, which roughly corresponds to a burning fire. 
 
-![planck_radiation_formula](..\fig\Lec_5\planck_radiation_formula.JPG)
-
 As seen, they have maximum radiation outputs at different wavelengths. It is important to note that the vertical scale is logarithmic, so that each editor spacing represents a power of ten or an order of magnitude. Also the sun curve has been scaled down to represent the reduction in radiation. Because of the distance it has traveled from the sun to the earth. 
 
 The solar curve has radiation maximum at a wavelength of about one-half a micrometer. Whereas the earth's maximum emission is at a wavelength of about 10 micrometers. The two curves crossover a little below 5 micrometers, meaning that any observations of the earth's surface at wavelengths less than about four micrometers are dominated by reflected sunlight. Whereas emissions above about six micrometers are dominated by natural emissions from the earth itself. 
