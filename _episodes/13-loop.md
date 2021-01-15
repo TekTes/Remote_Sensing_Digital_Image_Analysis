@@ -297,8 +297,6 @@ so we should always use it when we can.
 > {: .challenge}
 
 
-
-
 > ## Quiz
 >
 > Would a satellite with a 12 noon descending  node be good for mapping landscape features?
@@ -332,8 +330,6 @@ so we should always use it when we can.
 > >
 > {: .solution}
 > {: .challenge}
-
-
 
 > ## Quiz
 >
