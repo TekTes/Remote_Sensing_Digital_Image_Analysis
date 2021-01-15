@@ -71,7 +71,9 @@ Also on each path, say over the equator, the satellite sees that same local or s
 
 The figure above shares a sun-synchronous orbit in a little more detail, this time for each satellite in an ascending node configuration. As seen, the first orbit comes up over the Indian Ocean. The next, the second over Central Africa, and the third over the Atlantic Ocean, just off the African Coast. Note that it is not the orbit of the satellite itself that moves, but the rotation of the earth underneath that orbit. 
 
-This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
+
+
+The summary at the bottom of this page is effectively a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
 > ### Quiz
 >
