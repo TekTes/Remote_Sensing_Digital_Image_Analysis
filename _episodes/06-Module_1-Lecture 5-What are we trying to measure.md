@@ -29,7 +29,6 @@ The above figure shows how the three simple fundamental earth-covered types of v
 >    Would it show any useful detail in regions where there is no fire?
 >
 > 2. What single wavelength would you choose (approximately) if you wanted to produce
->
 >    an image with best discrimination among water, soil and vegetation features?
 >
 > 3. Explain why, in your opinion, the Landsat ETM+ bands are placed where they are.
