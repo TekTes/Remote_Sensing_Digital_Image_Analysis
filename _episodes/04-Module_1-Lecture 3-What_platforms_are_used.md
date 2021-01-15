@@ -73,17 +73,32 @@ The figure above shares a sun-synchronous orbit in a little more detail, this ti
 
 This summary effectively is a statement of the important characteristics of the orbit of a remote sensing satellite. The third question in this set asks you to think in each case about whether a satellite, aircraft or drone would be the most appropriate imaging platform.
 
-**of the loop body (e.g. `end for`); what is indented after the `for` statement belongs to the loop.**
-
-`len` is much faster than any function we could write ourselves,
-and much easier to read than a two-line loop;
-it will also give us the length of many other things that we haven't met yet,
-so we should always use it when we can.
-
-> ## From 1 to N
+> ## Quiz
 >
-> Python has a built-in function called `range` that generates a sequence of numbers. `range` can
-> accept 1, 2, or 3 parameters.
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+>
+> - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+>
+> - What platform would you choose in each of the following applications?
+>   - Mapping forests on a continental scale.
+>   - Daily monitoring fence conditions on a farm.
+>   - Monitoring an actively burning forest fire that covers about 50ha.
+>   - Seasonal monitoring of crop growth and condition in large scale agriculture.
+>
+> > ## Solution
+> >
+> > ```
+> > This is a place holder of the solution.
+> > ```
+> >
+> > {: .solution}
+> > {: .challenge}
+
+.
+
+> ## Quiz
+>
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
 >
 > * If one parameter is given, `range` generates a sequence of that length,
 >   starting at zero and incrementing by 1.
@@ -118,11 +133,18 @@ so we should always use it when we can.
 > > {: .challenge}
 
 
-
-
-> ## Understanding the loops
+> ## Quiz
 >
-> Given the following loop:
+> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
+>
+> Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
+>
+> What platform would you choose in each of the following applications?
+>
+> - Mapping forests on a continental scale.
+> - Daily monitoring fence conditions on a farm.
+> - Monitoring an actively burning forest fire that covers about 50ha.
+> - Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > ~~~
 > word = 'oxygen'
@@ -142,165 +164,6 @@ so we should always use it when we can.
 > > ## Solution
 > >
 > > The body of the loop is executed 6 times.
-> >
-> > {: .solution}
-> > {: .challenge}
-
-
-
-> ## Computing Powers With Loops
->
-> Exponentiation is built into Python:
->
-> ~~~
-> print(5 ** 3)
-> ~~~
->
-> {: .language-python}
->
-> ~~~
-> 125
-> ~~~
->
-> {: .output}
->
-> Write a loop that calculates the same result as `5 ** 3` using
-> multiplication (and without exponentiation).
->
-> > ## Solution
-> >
-> > ~~~
-> > result = 1
-> > for number in range(0, 3):
-> >  result = result * 5
-> > print(result)
-> > ~~~
-> >
-> > {: .language-python}
-> > {: .solution}
-> > {: .challenge}
-
-> ## Reverse a String
->
-> Knowing that two strings can be concatenated using the `+` operator,
-> write a loop that takes a string
-> and produces a new string with the characters in reverse order,
-> so `'Newton'` becomes `'notweN'`.
->
-> > ## Solution
-> >
-> > ~~~
-> > newstring = ''
-> > oldstring = 'Newton'
-> > for char in oldstring:
-> >  newstring = char + newstring
-> > print(newstring)
-> > ~~~
-> >
-> > {: .language-python}
-> > {: .solution}
-> > {: .challenge}
-
-> ## Computing the Value of a Polynomial
->
-> The built-in function `enumerate` takes a sequence (e.g. a list) and generates a
-> new sequence of the same length. Each element of the new sequence is a pair composed of the index
-> (0, 1, 2,...) and the value from the original sequence:
->
-> ~~~
-> for idx, val in enumerate(a_list):
->  # Do something using idx and val
-> ~~~
->
-> {: .language-python}
->
-> The code above loops through `a_list`, assigning the index to `idx` and the value to `val`.
->
-> Suppose you have encoded a polynomial as a list of coefficients in
-> the following way: the first element is the constant term, the
-> second element is the coefficient of the linear term, the third is the
-> coefficient of the quadratic term, etc.
->
-> ~~~
-> x = 5
-> coefs = [2, 4, 3]
-> y = coefs[0] * x**0 + coefs[1] * x**1 + coefs[2] * x**2
-> print(y)
-> ~~~
->
-> {: .language-python}
->
-> ~~~
-> 97
-> ~~~
->
-> {: .output}
->
-> Write a loop using `enumerate(coefs)` which computes the value `y` of any
-> polynomial, given `x` and `coefs`.
->
-> > ## Solution
-> >
-> > ~~~
-> > y = 0
-> > for idx, coef in enumerate(coefs):
-> >  y = y + coef * x**idx
-> > ~~~
-> >
-> > {: .language-python}
-> > {: .solution}
-> > {: .challenge}
-
-
-> ## What's in a name?
->
->
-> In the example above, the loop variable was given the name `char` as a mnemonic;
-> it is short for 'character'.  We can choose any name we want for variables.
-> We can even call our loop variable `banana`, as long as we use this name consistently:
->
-> ~~~
-> word = 'oxygen'
-> for banana in word:
->  print(banana)
-> ~~~
->
-> {: .language-python}
->
-> ~~~
-> o
-> x
-> y
-> g
-> e
-> n
-> ~~~
->
-> {: .output}
->
-> It is a good idea to choose variable names that are meaningful, otherwise it would be more
-> difficult to understand what the loop is doing.
-> {: .callout}
-
-**Here's another loop that repeatedly updates a variable:**
-
-> ## Quiz
->
-> Would a satellite with a 12 noon descending  node be good for mapping landscape features?
->
-> - Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time?  Its orbital period is 98.9 minutes.
->
-> - What platform would you choose in each of the following applications?
->   - Mapping forests on a continental scale.
->   - Daily monitoring fence conditions on a farm.
->   - Monitoring an actively burning forest fire that covers about 50ha.
->   - Seasonal monitoring of crop growth and condition in large scale agriculture.
->
-> > ## Solution
-> >
-> > ```
-> > This is a place holder of the solution.
-> > ```
 > >
 > > {: .solution}
 > > {: .challenge}
