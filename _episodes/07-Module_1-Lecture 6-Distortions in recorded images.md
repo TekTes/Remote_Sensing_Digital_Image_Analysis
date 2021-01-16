@@ -71,7 +71,7 @@ When we get to image contrast modification in a later lecture, you will be able 
 
 Correction can be carried out by using the ideal Planck curve for broadband sensors. For hyperspectral instruments, however, in which the spectral resolution is very high, the actual solar curve measured above the Earth's atmosphere needs to be used because the real solar spectrum contains fine spectral detail, notably Fraunhofer lines. Now let's look at the effect of the atmosphere on the brightness of the image. The atmosphere absorbs radiation on its path from the sun to the pixel and from a pixel to the sensor, as we saw in a previous lecture, but the atmosphere also scatters radiation directly into the sensor, as depicted in this figure. 
 
-![atmospheric_layer](G:\Российский Университет Дружбы Народов\Research - General\EuroSat_CNN\Remote Sensing Image Acquisition, Analysis and Applications\fig\Lec_6\atmospheric_layer.png)
+![atmospheric_layer](..\fig\Lec_6\atmospheric_layer.png)
 
 There is a third more subtle effect and that is scattering from the atmosphere onto the pixel via a diffuse and not a direct path, also shown here. There are other less obvious scattering pathways as well, all of which need to be considered when looking at the effect of the atmosphere on recorded image data. 
 
