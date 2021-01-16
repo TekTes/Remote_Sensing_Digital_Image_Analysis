@@ -16,10 +16,6 @@ keypoints:
 
 # Remote Sensing Image Acquisition, Analysis and Applications
 
-## Course Introduction
-
-## Module 1
-
 ### Welcome to Module 1
 
 Welcome to the first of the three modules that make up this course on remote sensing. This is our foundation module. Here we will introduce the field of remote sensing based, as it is, on acquiring images of the Earth's surface, mostly from space. 
