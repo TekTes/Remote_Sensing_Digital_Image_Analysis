@@ -3,9 +3,9 @@ title: Module 1 Lecture 6
 teaching: 
 exercises: 
 questions:
-- "?"
+- "what are the distortions in recorded images?"
 objectives:
-- "?"
+- "Understand the different kinds of distortions and methods for mitigating their effects. "
 keypoints:
 - "when images are recorded they invariably contain distortions which must be corrected."
 
