@@ -102,12 +102,24 @@ In the first of these questions, use your own experience, particularly if you ha
 
 > ## Quiz
 >
-> 1. Suppose a natural colour photograph of a vegetated region is taken from a satellite.  Describe the general appearance of the image under the three scattering conditions illustrated in the last slide of this lecture.
-> 2.   Can you think of a simple  way to correct line striping caused by mismatches in the input-output characteristics of a detector?
-> 3. what would be recorded in each of the following situations, over the visible to reflected infrared range of wavelengths;
->    - No atmosphere and an ideal reflecting surface that reflects all incident energy, irrespective of wavelength
+> 1. Suppose a natural colour photograph of a vegetated region is taken from a satellite.  Describe the 
+>general appearance of the image under the three scattering conditions illustrated in the last slide of 
+>this lecture.
+>
+> 2.   Can you think of a simple  way to correct line striping caused by mismatches in the input-output 
+>characteristics of a detector?
+>
+> 3. what would be recorded in each of the following situations, over the visible to reflected infrared 
+>range of wavelengths;
+>
+>    - No atmosphere and an ideal reflecting surface that reflects all incident energy, irrespective of 
+>wavelength
+>
 >    - A clear atmosphere and an ideal reflecting surface
->    - No atmosphere, but a vegetated surface (use the spectral reflectance curve for vegetation from Lecture Three)
+>
+>    - No atmosphere, but a vegetated surface (use the spectral reflectance curve for vegetation from 
+>Lecture Three)
+>
 >    - A clear atmosphere and a vegetated surface
 >
 > > ## Solution
@@ -115,6 +127,6 @@ In the first of these questions, use your own experience, particularly if you ha
 > > ???
 > > ???
 > {: .solution}
-> {: .challenge}
+{: .challenge}
 
 {% include links.md %}
