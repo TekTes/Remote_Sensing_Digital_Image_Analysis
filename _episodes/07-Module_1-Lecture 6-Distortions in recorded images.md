@@ -98,29 +98,23 @@ In the first of these questions, use your own experience, particularly if you ha
 
 ![absorption_of_atmoshphere](..\fig\Lec_6\absorption_of_atmoshphere.png)
 
-![absorption_of_atmoshphere](..\fig\Lec_6\absorption_of_atmoshphere.png)
-
 ![example_of_correction](..\fig\Lec_6\example_of_correction.gif)
 
 > ## Quiz
 >
-> 1. What wavelength would you choose if you had to image  a burning wildfire on the earth's surface? 
->    Would it show any useful detail in regions where there is no fire?
->
-> 2. What single wavelength would you choose (approximately) if you wanted to produce
->    an image with best discrimination among water, soil and vegetation features?
->
-> 3. Explain why, in your opinion, the Landsat ETM+ bands are placed where they are.
->
-> 4. Do you  think radar imaging could take place at night?
->
-> 5. From your knowledge of radio reception and mobile telephones, do you think radar imaging could take  place through clouds and rain?
+> 1. Suppose a natural colour photograph of a vegetated region is taken from a satellite.  Describe the general appearance of the image under the three scattering conditions illustrated in the last slide of this lecture.
+> 2.   Can you think of a simple  way to correct line striping caused by mismatches in the input-output characteristics of a detector?
+> 3. what would be recorded in each of the following situations, over the visible to reflected infrared range of wavelengths;
+>    - No atmosphere and an ideal reflecting surface that reflects all incident energy, irrespective of wavelength
+>    - A clear atmosphere and an ideal reflecting surface
+>    - No atmosphere, but a vegetated surface (use the spectral reflectance curve for vegetation from Lecture Three)
+>    - A clear atmosphere and a vegetated surface
 >
 > > ## Solution
 > >
 > > ???
 > > ???
 > {: .solution}
-{: .challenge}
+> {: .challenge}
 
 {% include links.md %}

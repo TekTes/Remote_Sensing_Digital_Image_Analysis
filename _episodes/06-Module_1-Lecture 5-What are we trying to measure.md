@@ -11,7 +11,7 @@ keypoints:
 - "Optical remote sensing systems measure reflected sunlight."
 - "We can also image  heat coming from the earth itself - that is the basis of thermal imaging."
 - "Fires burning on the earth's surface can also be detected  and mapped."
-- "Some sensors image with hundreds of closely spaced wavebands so that fine details in reflectance spectra can detected.  Those sensors are called hyperspectral, as against multispectral when fewer than about 10wavebands areused."
+- "Some sensors image with hundreds of closely spaced wavebands so that fine details in reflectance spectra can detected.  Those sensors are called hyperspectral, as against multispectral when fewer than about 10 wavebands are used."
 - "Water absorption bands are generally avoided with multispectral sensors."
 ---
 
