@@ -8,7 +8,7 @@ objectives:
 - "Introduction to Module 1"
 
 keypoints:
-- "At the end of this module, you should understand the following topics:
+- "At the end of this module, you should understand the following topics:"
 - "The nature of the remote sensing system, the platforms used for recording images of the Earth's surface, the imaging sensors used on those platforms, the various wavelengths used for imaging, how the atmosphere affects imaging, errors in the images and how they can be corrected, very importantly, the concept of spectral space"
 - "The basis of image understanding"
 - "Finally, the principle components transform."

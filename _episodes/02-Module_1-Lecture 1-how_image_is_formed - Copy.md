@@ -3,16 +3,15 @@ title: Module 1 Introduction
 teaching: 40
 exercises: 20
 questions:
-- "What is remote sensing?"
+- "What is in Module 1 of the course?"
 objectives:
-- "introduce the field of remote sensing based, as it is, on acquiring images of the Earth's surface, mostly from space."
-- "Examine how the presence of the Earth's atmosphere affects the images recorded."
+- "Introduction to Module 1"
 
 keypoints:
-- "To know how to analyze images so we can gather information about the landscape being imaged."
-- "Understand the nature of the remote sensing system, the platforms used for recording images of the Earth's surface, the imaging sensors used on those platforms, the various wavelengths used for imaging, how the atmosphere affects imaging, errors in the images and how they can be corrected"
-- "Understand the concept of spectral space, and then the basis of image understanding"
-- "Understand the principle components transform."
+- "At the end of this module, you should understand the following topics:"
+- "The nature of the remote sensing system, the platforms used for recording images of the Earth's surface, the imaging sensors used on those platforms, the various wavelengths used for imaging, how the atmosphere affects imaging, errors in the images and how they can be corrected, very importantly, the concept of spectral space"
+- "The basis of image understanding"
+- "Finally, the principle components transform."
 ---
 
 ### What is remote sensing?
