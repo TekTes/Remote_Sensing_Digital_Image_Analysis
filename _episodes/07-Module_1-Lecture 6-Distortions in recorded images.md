@@ -56,9 +56,6 @@ There are two important detector properties described in this graph. The first i
 ![radiometric_distortion](..\fig\Lec_6\radiometric_distortion.gif)
 
 
-
-
-
 Although the drawing is exaggerated, the detectors will often have slight variations in their offsets, and slight differences in their gains. In the simple case of the Landsat Multispectral Scanner, there are six detectors per band. If there are noticeable differences in gains and offsets, it is possible to see its dropping in an image, which repeats every six lines. 
 
 The figure below shows an example of the land striping in the Landsat Multi Spectral Scanner image resulting from detector mismatches. You will see that the land striping is very noticeable in the water part of the image. How can we reduce the land striping distortion caused by a mismatch in sensor characteristics? A simple method is to compute the histograms of the signals recorded by each individual detector and then match the means and standard deviations of those histograms. We will not go into detail here, but it is a fairly simple process and is often employed in practice. 
@@ -101,6 +98,8 @@ In the first of these questions, use your own experience, particularly if you ha
 
 ![absorption_of_atmoshphere](..\fig\Lec_6\absorption_of_atmoshphere.png)
 
+![absorption_of_atmoshphere](..\fig\Lec_6\absorption_of_atmoshphere.png)
+
 ![example_of_correction](..\fig\Lec_6\example_of_correction.gif)
 
 > ## Quiz
@@ -121,7 +120,7 @@ In the first of these questions, use your own experience, particularly if you ha
 > >
 > > ???
 > > ???
-> > {: .solution}
-> > {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
