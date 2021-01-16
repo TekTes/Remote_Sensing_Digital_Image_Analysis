@@ -99,7 +99,7 @@ As we noted at the start of this lecture, many of the distortions discussed will
 
 In the first of these questions, use your own experience, particularly if you have flown over regions of patchy fog and mist. The last question, in a sense asks you to build up what might actually be recorded by a sensor as against what we think might be recorded. 
 
-![RS17601](..\fig\Lec_6\RS17601.png)
+![RS17601](../fig/Lec_6/RS17601.png)
 
 ![example_of_correction](..\fig\Lec_6\example_of_correction.gif)
 
