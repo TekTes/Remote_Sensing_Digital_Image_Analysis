@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lecture 5
-teaching: 20
-exercises: 0
+teaching: 
+exercises:
 questions:
 - "What are we trying to measure?"
 objectives:

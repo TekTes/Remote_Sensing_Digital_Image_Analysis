@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lecture 2
-teaching: 30
-exercises: 20
+teaching: 
+exercises:
 questions:
 - "How does the atmosphere affect the formation of images?"
 

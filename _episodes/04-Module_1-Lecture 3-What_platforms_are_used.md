@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lecture 3
-teaching: 30
-exercises: 0
+teaching: 
+exercises:
 questions:
 - "What platforms are used for imaging the earth's surface?"
 objectives:

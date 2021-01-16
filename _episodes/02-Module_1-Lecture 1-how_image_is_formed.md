@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lecture 1
-teaching: 40
-exercises: 20
+teaching: 
+exercises:
 questions:
 - "What is remote sensing?"
 objectives:

@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lecture 4
-teaching: 30
-exercises: 15
+teaching: 
+exercises:
 questions:
 - "How do we record images of the earth's surface?"
 objectives:
