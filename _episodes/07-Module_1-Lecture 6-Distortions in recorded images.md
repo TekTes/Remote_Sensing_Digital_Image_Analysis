@@ -9,18 +9,18 @@ objectives:
 keypoints:
 - "when images are recorded they invariably contain distortions which must be corrected."
 
-•    "Distortions in the recorded brightness values, called radiometric distortion, can result from sensor
+- "Distortions in the recorded brightness values, called radiometric distortion, can result from sensor
 non-idealities, the wavelength variation in solar radiation and the absorbing and scattering behaviour
 of the atmospheric path of the energy to and from a pixel."
 
-•    "when several detectors are used to record an image in a particular waveband (i.e. one image channel or band) mismatches in their input-output characteristics can lead to transverse or longitudinal line striping."
+- "when several detectors are used to record an image in a particular waveband (i.e. one image channel or band) mismatches in their input-output characteristics can lead to transverse or longitudinal line striping."
 
-•   "The wavelength dependence  of the solar energy incident on the earth's surface is described by Planck's radiation law.  The dependence  is particularly strong from the visible to the reflected infrared range."
+- "The wavelength dependence  of the solar energy incident on the earth's surface is described by Planck's radiation law.  The dependence  is particularly strong from the visible to the reflected infrared range."
 
-•   "As seen in lecture three, atmospheric gases have absorption features at specific wavelengths.  They will
+- "As seen in lecture three, atmospheric gases have absorption features at specific wavelengths.  They will
 superimpose themselves on the spectrum of the ground  cover type being imaged."
 
-•   "Atmospheric scattering adds to the signal recorded by the sensor, and should be removed."
+- "Atmospheric scattering adds to the signal recorded by the sensor, and should be removed."
 ---
 
 ### Distortions in recorded images
@@ -99,7 +99,7 @@ As we noted at the start of this lecture, many of the distortions discussed will
 
 In the first of these questions, use your own experience, particularly if you have flown over regions of patchy fog and mist. The last question, in a sense asks you to build up what might actually be recorded by a sensor as against what we think might be recorded. 
 
-![RS17601](G:\Российский Университет Дружбы Народов\Research - General\EuroSat_CNN\Remote Sensing Image Acquisition, Analysis and Applications\fig\Lec_6\RS17601.png)
+![RS17601](..\fig\Lec_6\RS17601.png)
 
 ![example_of_correction](..\fig\Lec_6\example_of_correction.gif)
 
