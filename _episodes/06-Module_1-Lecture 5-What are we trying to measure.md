@@ -73,7 +73,7 @@ Planck's law is described by an equation, that allows us to plot radiation curve
 
 ![planck_radiation_formula](..\fig\Lec_5\planck_radiation_formula.JPG)
 
-In this slide, we show three examples of Planck's radiation law in practice. 
+In this lecture, we show three examples of Planck's radiation law in practice. 
 
 - The first example is for the sun, whose surface temperature is taken to be 5,950K. 
 - The second is for the earth, which has a temperature of approximately 300K. 
