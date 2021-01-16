@@ -103,4 +103,25 @@ In the first of these questions, use your own experience, particularly if you ha
 
 ![example_of_correction](..\fig\Lec_6\example_of_correction.gif)
 
+> ## Quiz
+>
+> 1. What wavelength would you choose if you had to image  a burning wildfire on the earth's surface? 
+>    Would it show any useful detail in regions where there is no fire?
+>
+> 2. What single wavelength would you choose (approximately) if you wanted to produce
+>    an image with best discrimination among water, soil and vegetation features?
+>
+> 3. Explain why, in your opinion, the Landsat ETM+ bands are placed where they are.
+>
+> 4. Do you  think radar imaging could take place at night?
+>
+> 5. From your knowledge of radio reception and mobile telephones, do you think radar imaging could take  place through clouds and rain?
+>
+> > ## Solution
+> >
+> > ???
+> > ???
+> > {: .solution}
+> > {: .challenge}
+
 {% include links.md %}
