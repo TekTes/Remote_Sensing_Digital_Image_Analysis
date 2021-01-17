@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lecture 10 
-teaching: 30
-exercises: 20
+teaching: 
+exercises:
 questions:
 - "How do we register an image to a map grid?"
 objectives:
