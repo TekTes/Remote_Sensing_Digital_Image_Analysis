@@ -15,6 +15,7 @@ keypoints:
 - "~~ Wide fields of view"
 - "~~ Earth curvature"
 - "To understand the effect on the image product it is important to envisage the pixels laid down on a rectangular grid.  The result is often opposite to what might be expected.  For example, if the sampling rate across  a scan line is too fast, so that the recorded IF0Vs overlap, the recorded image ls too broad, not too narrow"
+![oversampling](..\fig\Lec_7\oversampling.png)
 ---
 
 ### Geometric distortion in recorded images
@@ -71,7 +72,7 @@ The last point in this summary demonstrates the expansion of the image across th
 >    - Platform gradually rising in height during orbit
 > 2. Would the following be sources of geometric distortion *for* a pushbroom scanner?
 >
->    - Finite scan time?
+>    - Finite scan time
 >    - Scanning non-linearities
 >    - Wide field of view systems
 >
