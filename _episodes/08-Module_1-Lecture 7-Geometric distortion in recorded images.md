@@ -15,7 +15,6 @@ keypoints:
 - "~~ Wide fields of view"
 - "~~ Earth curvature"
 - "To understand the effect on the image product it is important to envisage the pixels laid down on a rectangular grid.  The result is often opposite to what might be expected.  For example, if the sampling rate across  a scan line is too fast, so that the recorded IF0Vs overlap, the recorded image ls too broad, not too narrow"
-![oversampling](..\fig\Lec_7\oversampling.png)
 ---
 
 ### Geometric distortion in recorded images
@@ -59,9 +58,25 @@ From satellite altitudes, sensors with a wide field of view are sensitive to ear
 
 Now let's look at some of the errors caused by the instruments themselves. For an oscillating mirror scanner as seen here, the mirror has to slow down, stop, and reverse direction at the end of each scan. By definition, the scan has to be non-linear at the swath edges. To minimize the non-linearity, a scanning window is defined over which data is recorded and beyond which any other detected radiation is ignored. Clearly, the scanning window is chosen to exclude the extreme non-linearities at the scan edges. 
 
-We now look at two other instrumentation problems. The first is related to the fact that some scanners take a finite time to cross the swath while a platform is moving forward during data acquisition. That means that the portion of the earth being scanned is further forward on the swath edge at the end of the scan. To correct for this effect, the display pixels had to be shifted progressively backwards towards the age of the image. The second error is called aspect ratio distortion. It is caused by the pixel sampling rate across the scan line not being synchronous with respect to the IFOV of the instrument. If the sampling rate is too fast, the pixels overlap. If it is too slow, the pixels have spaces between them. Again, when these pixels sequences are displayed on a regular grid, the effect is to expand or compress the image across the track. 
+| ![effect_of_earth_curviture](..\fig\Lec_7\effect_of_earth_curviture.gif) | ![effect_of_earth_curviture](..\fig\Lec_7\effect_of_earth_curviture.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+We now look at two other instrumentation problems. The first is related to the fact that some scanners take a finite time to cross the swath while a platform is moving forward during data acquisition. That means that the portion of the earth being scanned is further forward on the swath edge at the end of the scan. To correct for this effect, the display pixels had to be shifted progressively backwards towards the age of the image. 
+
+| ![non_linearities_scanning](..\fig\Lec_7\non_linearities_scanning.gif) | ![non_linearities_scanning](..\fig\Lec_7\non_linearities_scanning.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+The second error is called aspect ratio distortion. It is caused by the pixel sampling rate across the scan line not being synchronous with respect to the IFOV of the instrument. If the sampling rate is too fast, the pixels overlap. If it is too slow, the pixels have spaces between them. Again, when these pixels sequences are displayed on a regular grid, the effect is to expand or compress the image across the track. 
+
+| ![finite_aquisation_time_for_scanners](..\fig\Lec_7\finite_aquisation_time_for_scanners.gif) | ![finite_aquisation_time_for_scanners](..\fig\Lec_7\finite_aquisation_time_for_scanners.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
 
 The last point in this summary demonstrates the expansion of the image across the trend caused by oversampling with respect to the IFOV of the instrument. This is a particular problem with the landsat multispectral scanner. When answering the questions in this quiz, you should keep in mind that the displayed version of the image almost mirrors what is happening on the ground in terms of geometric errors. For example, to correct for the effect of earth's rotation to Eastwards, pixels have to be shifted to the West. 
+
+![oversampling](..\fig\Lec_7\oversampling.png)
 
 > ## Quiz
 >
