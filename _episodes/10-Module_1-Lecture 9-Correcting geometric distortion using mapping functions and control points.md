@@ -26,9 +26,11 @@ We will use the control points to set up those mathematical equations. In a sens
 
 This figure shows what we have in mind. 
 
+| ![M1L9](..\fig\Lec_9\Using_mapping_functions.gif) | ![Using_mapping_functions](..\fig\Lec_9\Using_mapping_functions.png) |
+| ------------------------------------------------- | ------------------------------------------------------------ |
+| ![M1L9](..\fig\Lec_9\Using_mapping_functions.gif) | ![Using_mapping_functions](..\fig\Lec_9\Using_mapping_functions.png) |
 
 
-![M1L9](..\fig\Lec_9\Using_mapping_functions.gif)
 
 
 
