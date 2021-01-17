@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lecture 7
-teaching: 30
-exercises: 0
+teaching: 
+exercises:
 questions:
 - "What are the sources of geometric distortion and how they can be corrected?"
 objectives:
