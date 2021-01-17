@@ -5,6 +5,8 @@ exercises:
 questions:
 - "What are the sources of geometric distortion and how they can be corrected?"
 objectives:
+- "Identify the different sources of geometric distortion"
+- "Familiarize with techniques used to correct geometric distortion"
 - "Understand how an image can be registered to a map coordinate system."
 keypoints:
 - "Distortions in image geometry can arise because of:"
