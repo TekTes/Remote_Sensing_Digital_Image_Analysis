@@ -5,7 +5,7 @@ exercises: 10
 questions:
 - "What methods can be used to effectively correct geometric errors?"
 objectives:
-- "Get introduced to a very powerful and common method for correcting errors in geometry"
+- "Get introduced to a very powerful and common method for correcting geometrical errors"
 keypoints:
 - "If we have an equation that describes the relationship between a point in a map  and the corresponding point in a recorded  image  then it should be possible  to correct geometric errors in the image by relocating image pixels onto the map grid."
 - "The map is assumed  to be correct geometrically, and  has a well-defined grid, such as Universal Transverse Mercator (UTM) coordinates."
