@@ -43,7 +43,7 @@ The first question here has been treated in the lecture, the idea of the questio
 
 > ## Quiz
 >
-> 	One form of geometric distortion is a scale change  horizontally that resultsfrom over• or under-sampling along  a scan line.  What do you think the correction matrix might look like?
+> - One form of geometric distortion is a scale change  horizontally that resultsfrom over• or under-sampling along  a scan line.  What do you think the correction matrix might look like?
 >
 > - Show how the corrections for several different distortions can be combined into a single
 step.
