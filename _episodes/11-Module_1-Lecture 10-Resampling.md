@@ -7,11 +7,6 @@ questions:
 objectives:
 - "Recapping from the previous lecture, plus a bit more:"
 - "Find points in the image that correspond to each location in the map grid. "
-
-If the points located in the image by the mapping polynomials are exactly pixel centres, then the pixels are simply relocated to the corresponding position on the map grid we saw in the last lecture.
-
-But that will rarely be the case.  More often, the point in the image indicated by an application of the mapping polynomialswill not fall on a pixel centre, but will be somewhere between several
-pixel locations as seen in the following"
 keypoints:
 - "When we want to register an image to a map grid the steps involved are:"
 
