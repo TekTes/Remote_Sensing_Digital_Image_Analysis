@@ -52,6 +52,10 @@ We now consider a very unusual form of geometric distortion. It occurs when the 
 
 From satellite altitudes, sensors with a wide field of view are sensitive to earth curvature as seen in this slide. Without going into too much detail, the net effect on the image is to exaggerate the panoramic distortion of the previous slide. 
 
+| ![effect_of_wide_FOV](..\fig\Lec_7\effect_of_wide_FOV.gif) | ![effect_of_wide_FOV](..\fig\Lec_7\effect_of_wide_FOV.png) |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+|                                                            |                                                            |
+
 Now let's look at some of the errors caused by the instruments themselves. For an oscillating mirror scanner as seen here, the mirror has to slow down, stop, and reverse direction at the end of each scan. By definition, the scan has to be non-linear at the swath edges. To minimize the non-linearity, a scanning window is defined over which data is recorded and beyond which any other detected radiation is ignored. Clearly, the scanning window is chosen to exclude the extreme non-linearities at the scan edges. 
 
 We now look at two other instrumentation problems. The first is related to the fact that some scanners take a finite time to cross the swath while a platform is moving forward during data acquisition. That means that the portion of the earth being scanned is further forward on the swath edge at the end of the scan. To correct for this effect, the display pixels had to be shifted progressively backwards towards the age of the image. The second error is called aspect ratio distortion. It is caused by the pixel sampling rate across the scan line not being synchronous with respect to the IFOV of the instrument. If the sampling rate is too fast, the pixels overlap. If it is too slow, the pixels have spaces between them. Again, when these pixels sequences are displayed on a regular grid, the effect is to expand or compress the image across the track. 
