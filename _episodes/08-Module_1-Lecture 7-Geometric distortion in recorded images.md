@@ -36,9 +36,9 @@ As we mentioned earlier, the techniques used for correcting errors in geometry a
 
 It helps for much of what is to follow. If we look carefully at how an image is built up from recorded pixels. The diagram in this the figure below shows a group of pixel or grid centers. The grid centers are spaced apart by the IFOV of the sensor and in this case, we have shown an array of L lines of M pixels each. What is the pixel? It is a sample of the earth surface equal in size to the IFOV of the sensor. A set of pixels is therefore just a set of those samples. The rate of sampling is arranged ideally so that when we form an image by laying down a record of pixels on the grid, the pixels join up with each other as depicted here. We need to keep this model in mind in everything we do now, with respect to image geometry. 
 
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![geometric_distortions](..\fig\Lec_7\geometric_distortions.gif) | ![geometric_distortions](..\fig\Lec_7\geometric_distortions.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
 
 
 
