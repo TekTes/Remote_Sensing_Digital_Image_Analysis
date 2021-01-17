@@ -32,7 +32,7 @@ This figure shows what we have in mind.
 
 
 
-
+test
 
 The geometrically correct map is on the left hand side. And the image to be corrected is on the right hand side. 
 
