@@ -28,11 +28,7 @@ This figure shows what we have in mind.
 
 | ![M1L9](..\fig\Lec_9\Using_mapping_functions.gif) | ![Using_mapping_functions](..\fig\Lec_9\Using_mapping_functions.png) |
 | ------------------------------------------------- | ------------------------------------------------------------ |
-| ![M1L9](..\fig\Lec_9\Using_mapping_functions.gif) | ![Using_mapping_functions](..\fig\Lec_9\Using_mapping_functions.png) |
-
-
-
-test
+|                                                   |                                                              |
 
 The geometrically correct map is on the left hand side. And the image to be corrected is on the right hand side. 
 
@@ -49,6 +45,10 @@ Those functions will contain unknown coefficients, which when given explicit val
 To find those explicit values, we need some points in common, that is simultaneous sets of x, y, and u, v, that we can substitute into the equations. Those points are the control points, or sometimes they're called Ground Control Points. 
 
 Here, we show the relationship between points in the map and the corresponding points in the image. By drawing a grid or pixel centers in each case. 
+
+| ![pixelcenters](..\fig\Lec_9\pixelcenters.gif) | ![pixelcenters](..\fig\Lec_9\pixelcenters.png) |
+| ---------------------------------------------- | ---------------------------------------------- |
+|                                                |                                                |
 
 What we are going to do is choose a grid position on the map, and by using the mapping functions, find the corresponding grid position in the image. 
 
