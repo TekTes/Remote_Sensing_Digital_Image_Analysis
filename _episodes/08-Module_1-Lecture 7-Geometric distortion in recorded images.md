@@ -36,7 +36,11 @@ As we mentioned earlier, the techniques used for correcting errors in geometry a
 
 It helps for much of what is to follow. If we look carefully at how an image is built up from recorded pixels. The diagram in this the figure below shows a group of pixel or grid centers. The grid centers are spaced apart by the IFOV of the sensor and in this case, we have shown an array of L lines of M pixels each. What is the pixel? It is a sample of the earth surface equal in size to the IFOV of the sensor. A set of pixels is therefore just a set of those samples. The rate of sampling is arranged ideally so that when we form an image by laying down a record of pixels on the grid, the pixels join up with each other as depicted here. We need to keep this model in mind in everything we do now, with respect to image geometry. 
 
-![geometric_distortions](..\fig\Lec_7\geometric_distortions.gif)
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![geometric_distortions](..\fig\Lec_7\geometric_distortions.gif) | ![geometric_distortions](..\fig\Lec_7\geometric_distortions.png) |
+
+
 
 The first time this rectangular grid concept becomes useful is in understanding the error introduced into an image as a result of the rotation of the earth. The signal coming from a remote sensing platform is just a string of pixels for each recorded line of data. Knowing nothing better, we just lay them down on a regular image grid, as discussed in the previous slide. That gives the screen looking image on the left hand side of this slide. However, during satellite image acquisition, the earth is moving to the East, underneath the platform. In this case, image in the platform is moving down the slide. A part of the image that is recorded last was actually to the West when the recording of this image segments started, and has moved itself directly under the platform by the time the last line of pixels is recorded. Therefore, to make the image geometry reflect that of the actual portion of the earth surface being imaged, the second and last lines of pixels need to be shifted progressively to the West, as shown in the right-hand image. If we know the velocity of the spacecraft, the earth velocity of that location, and the size of the image, it is relatively easy to work out how much each line of pixels needs to be shifted by. 
 
