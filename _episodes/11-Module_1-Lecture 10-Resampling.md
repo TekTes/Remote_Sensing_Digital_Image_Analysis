@@ -10,9 +10,9 @@ objectives:
 keypoints:
 - "When we want to register an image to a map grid the steps involved are:"
 
-- "- Select control points"
+"- Select control points"
 
-- "- Use the control points to find the two mapping polynomials"
+"- Use the control points to find the two mapping polynomials"
 
 - "- Use the mapping  polynomials  to find the grid positions in the image corresponding
 to each grid location in the (geometrically correct) map"
