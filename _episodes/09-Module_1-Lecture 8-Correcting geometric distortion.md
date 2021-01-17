@@ -6,8 +6,8 @@ questions:
 - "How do you compensate the geometric errors in remote sensing imagery?"
 objectives:
 - "Understand the two common approaches to correcting errors in image geometry"
-1. "Set up a mathematical model of the distortion(s), by using  the appropriate equations for each of the distortion types treated in the last lecture."
-2. "Acount for all distortions in one process by setting up two equations that allow the pixels in a distorted image to be relocated spatially so that they appear in their correct positions with respect to a known map base"
+- "1.Set up a mathematical model of the distortion(s), by using  the appropriate equations for each of the distortion types treated in the last lecture."
+- "2. Account for all distortions in one process by setting up two equations that allow the pixels in a distorted image to be relocated spatially so that they appear in their correct positions with respect to a known map base"
 keypoints:
 - "Distortions in image geometry can arise because of:"
 - "~~ Instrumentation effects"
