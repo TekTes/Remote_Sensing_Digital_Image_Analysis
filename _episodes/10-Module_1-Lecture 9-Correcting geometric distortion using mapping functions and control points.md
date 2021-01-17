@@ -3,11 +3,15 @@ title: Module 1 Lecture 9
 teaching: 30
 exercises: 10
 questions:
-- "?"
+- "What methods can be used to effectively correct geometric errors?"
 objectives:
-- ""
+- "Get introduced to a very powerful and common method for correcting errors in geometry"
 keypoints:
-- ""
+- "If we have an equation that describes the relationship between a point in a map  and the corresponding point in a recorded  image  then it should be possible  to correct geometric errors in the image by relocating image pixels onto the map grid."
+- "The map is assumed  to be correct geometrically, and  has a well-defined grid, such as Universal Transverse Mercator (UTM) coordinates."
+- "The positions of pixels in an image are also defined by a grid - their line and position numbers."
+- "Most often we assume  a polynomial relationship between map points and image points."
+- "The coefficients in the polynomials  are found by using control  points (CPs), sometimes called ground control points (GCPs), which are features that are easily identified and for which the map and image coordinates are known."
 ---
 
 ### Correcting geometric distortion using mapping functions and control points
@@ -54,13 +58,17 @@ What we are going to do is choose a grid position on the map, and by using the m
 
 What sorts of functions should we use for this? Well the simplest are polynomials. 
 
-Here we show the mapping functions expressed as polynomials. 
+Here we show the mapping functions expressed as polynomials. In this case of order or degree two. 
 
-In this case of order or degree two. 
+![polynomials](..\fig\Lec_9\polynomials.png)
 
 In principle, any order could be used, expecting that higher orders will give more accurate results. 
 
 However, higher order polynomials introduce their own problems, as we will see later. 
+
+| ![polynomials2](..\fig\Lec_9\polynomials2.gif) | ![polynomials2](..\fig\Lec_9\polynomials2.png) |
+| ---------------------------------------------- | ---------------------------------------------- |
+|                                                |                                                |
 
 The unknown coefficients to be found using the control points are the a sub zero, b sub zero, etc. 
 
@@ -69,6 +77,10 @@ If we assume that we have used the control points, and identified the unknown co
 We've moved over the map grid, point by point, that is, grid intersection by grid intersection. 
 
 And for each point, use the mapping polynomials to find the corresponding point in the image.
+
+| ![mapping_functions_usage](..\fig\Lec_9\mapping_functions_usage.gif) | ![mapping_functions_usage](..\fig\Lec_9\mapping_functions_usage.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
 
 We find the pixel value at that image point, and transfer it onto the map position we started with.
 
@@ -82,11 +94,15 @@ There are now two important matters to be considered, before the method is worka
 
 The second practical matter is that the mapping from a map grid position using the polynomials, may not project exactly onto a pixel position in the image grid, that will form the focus of our next lecture. 
 
+![Using_mapping_functions2](..\fig\Lec_9\Using_mapping_functions2.png)
+
 Remember that the control points are pairs of coordinates, in the map and the image. 
 
 Essentially, each control point is represented by the set of values of x, y, u and v. If we had, say 20 control points, we would have 20 sets of those four numbers. 
 
-What we do is, substitute those knowing values into the mapping polynomials, and thus set up a set of simultaneous equations, which when sold, yield the required values of the unknown coefficients. 
+
+
+What we d![Using_control_points](..\fig\Lec_9\Using_control_points.png)o is, substitute those knowing values into the mapping polynomials, and thus set up a set of simultaneous equations, which when sold, yield the required values of the unknown coefficients. 
 
 Clearly, we need to have at least as many control points, as there are unknown coefficients, in one of the mapping polynomials. 
 
@@ -97,6 +113,8 @@ For a second order mapping polynomials, a minimum of six control points is requi
 Three are needed for a first order colinear mapping polynomial. And ten are required, if third order mapping polynomials are used. 
 
 Usually we choose more control points than necessary and generate least squares estimates of the unknown coefficients. 
+
+![Using_control_points2](..\fig\Lec_9\Using_control_points2.png)
 
 A particular advantage in choosing greater than the minimum number of control points is that, any specific control point which may not be well placed in either the map or the image, will not have an undue influence on the values of the coefficients being generated. 
 
@@ -114,7 +132,7 @@ Will a straight line always do a better job, than a cubic polynomial or not?
 
 > ## Quiz
 >
-> - One form of geometric distortion is a scale change  horizontally that resultsfrom over• or under-sampling along  a scan line.  What do you think the correction matrix might look like?
+> - One form of geometric distortion is a scale change  horizontally that results from over or under-sampling along  a scan line.  What do you think the correction matrix might look like?
 >
 > - Show how the corrections for several different distortions can be combined into a single
 >   step.
@@ -125,7 +143,7 @@ Will a straight line always do a better job, than a cubic polynomial or not?
 > >
 > > ???
 > > ???
-> > {: .solution}
-> > {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
