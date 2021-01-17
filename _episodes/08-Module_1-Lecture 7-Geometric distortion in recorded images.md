@@ -72,6 +72,6 @@ The last point in this summary demonstrates the expansion of the image across th
 > > ???
 > > ???
 > {: .solution}
-> {: .challenge}
+{: .challenge}
 
 {% include links.md %}
