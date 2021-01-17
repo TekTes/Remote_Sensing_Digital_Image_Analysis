@@ -3,7 +3,7 @@ title: Module 1 Lecture 8
 teaching: 
 exercises:
 questions:
-- "What are the sources of geometric distortion and how they can be corrected?"
+- "How do you compensate the geometric errors in remote sensing imagery?"
 objectives:
 - "Identify the different sources of geometric distortion"
 - "Familiarize with techniques used to correct geometric distortion"
