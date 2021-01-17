@@ -3,14 +3,18 @@ title: Module 1 Lecture 8
 teaching: 
 exercises:
 questions:
-- "How do you compensate the geometric errors in remote sensing imagery?"
+- "What are the sources of geometric distortion and how they can be corrected?"
 objectives:
-- "Understand the two common approaches to correcting errors in image geometry"
-	
+- "Identify the different sources of geometric distortion"
+- "Familiarize with techniques used to correct geometric distortion"
+- "Understand how an image can be registered to a map coordinate system."
 keypoints:
-- "Distortions in image geometry can be corrected by establishing a  mathematical relationship between the positions of pixels in the recorded (distorted) data and their correct positions relative to the landscape."
-- "A separate relationship is needed for each distortion type (earth rotation, panoramic effects, earth curvature) but these corrections can be combined through matrix multiplication to produce  a single correction formula."
-- "Correction of geometric distortion can also be carried out by ignoring the precise correction formulae and, instead, setting up a mathematical (polynomial) relationship between the positions of pixels in the recorded image and their (correct) positions on a known map grid."
+- "Distortions in image geometry can arise because of:"
+- "~~ Instrumentation effects"
+- "~~ Platform and sensor motion "
+- "~~ Wide fields of view"
+- "~~ Earth curvature"
+- "To understand the effect on the image product it is important to envisage the pixels laid down on a rectangular grid.  The result is often opposite to what might be expected.  For example, if the sampling rate across  a scan line is too fast, so that the recorded IF0Vs overlap, the recorded image ls too broad, not too narrow"
 ---
 
 ### Correcting geometric distortion
