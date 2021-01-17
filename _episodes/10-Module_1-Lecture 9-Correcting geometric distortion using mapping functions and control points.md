@@ -78,9 +78,7 @@ We've moved over the map grid, point by point, that is, grid intersection by gri
 
 And for each point, use the mapping polynomials to find the corresponding point in the image.
 
-| ![mapping_functions_usage](..\fig\Lec_9\mapping_functions_usage.gif) | ![mapping_functions_usage](..\fig\Lec_9\mapping_functions_usage.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+![mapping_functions_usage](..\fig\Lec_9\mapping_functions_usage.png)
 
 We find the pixel value at that image point, and transfer it onto the map position we started with.
 
