@@ -53,20 +53,19 @@ The last point in this summary demonstrates the expansion of the image across th
 > ## Quiz
 >
 > 1. How would each of the following sources of geometric distortion appear in a displayed image?
->   - Earth curvature
+>    - Earth curvature
 >    - Finite sensor scan time
 >    - Platform roll
 >    - Platform gradually rising in height during orbit
-> 
->2. Would the following be sources of geometric distortion *for* a pushbroom scanner?
-> 
->   - Finite scan time?
+> 2. Would the following be sources of geometric distortion *for* a pushbroom scanner?
+>
+>    - Finite scan time?
 >    - Scanning non-linearities
 >    - Wide field of view systems
+>
 > 
 >
->    
->> ## Solution
+> > ## Solution
 > >
 > > ???
 > > ???
