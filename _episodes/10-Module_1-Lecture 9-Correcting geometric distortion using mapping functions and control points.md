@@ -28,7 +28,7 @@ This figure shows what we have in mind.
 
 
 
-![M1L9](..\fig\Lec_9\M1L9.gif)
+![M1L9](..\fig\Lec_9\Using_mapping_functions.gif)
 
 
 
