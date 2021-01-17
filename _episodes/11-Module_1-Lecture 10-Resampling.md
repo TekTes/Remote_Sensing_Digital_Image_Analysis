@@ -15,14 +15,14 @@ pixel locations as seen in the following"
 keypoints:
 - "When we want to register an image to a map grid the steps involved are:"
 
-- "- Select control points"
+- "Select control points"
 
-- "- Use the control points to find the two mapping polynomials"
+- "Use the control points to find the two mapping polynomials"
 
-- "- Use the mapping  polynomials  to find the grid positions in the image corresponding
+- "Use the mapping  polynomials  to find the grid positions in the image corresponding
 to each grid location in the (geometrically correct) map"
 
-- "- Use a resampling (interpolation) method to determine the brightness value to use
+- "Use a resampling (interpolation) method to determine the brightness value to use
 for the location indicated by the mapping polynomials"
 
 - "The overall procedure is sometimes called geocoding"
@@ -54,7 +54,7 @@ The questions here, ask you to think about some practical aspects of using groun
 
 > ## Quiz
 >
-> - What would guide you in selecting good control points??
+> - What would guide you in selecting good control points?
 >
 > - Is it preferable to use mapping polynomials of low or high order?
 >
