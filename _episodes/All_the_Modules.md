@@ -1,13 +1,12 @@
-title: All Modules
-teaching: 30
-exercises: 0
+title: Module 1 Lecture 11 
+teaching: 
+exercises: 
 questions:
 
-- "?"
-
-
+- "???"
 keypoints:
-- "?"
+- "???"
+
 
 ### Module 1 Lecture 4 How do we record images of the earth's surface?
 
