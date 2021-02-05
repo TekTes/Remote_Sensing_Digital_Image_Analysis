@@ -74,7 +74,7 @@ I would like to look at remote sensing in four blocks. This is like the system v
 > 5. The atmosphere can selectively (with wavelength) absorb radiation from the sun, and from the earth to the sensor.  Would you expect the atmosphere to affect imaging using aircraft more or less than imaging from satellites?
 >
 > > ## Solution
-> > ???
+> > 1. A large field of view is possible, allowing large regions of the earth’s surface to be seen in a single image.  It is also feasible to image the whole of the earth’s surface in a practical time frame.  We will see in a later lecture that spacecraft are above the atmosphere and thus are not affected by atmospheric turbulence.
 > > ???
 > {: .solution}
 {: .challenge}
