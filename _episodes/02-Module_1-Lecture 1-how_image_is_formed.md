@@ -72,7 +72,7 @@ I would like to look at remote sensing in four blocks. This is like the system v
 >
 > 4. Why should we want to form images of the earth’s surface?
 >
-> 5. The atmosphere can selectively (with wavelength) absorb radiation from the sun, and from the earth to the sensor.  Would you expect the atmosphere to affect imaging using aircraft more or less than imaging from satellites?
+> 5. The atmosphere can selectively (with wavelength) absorb radiation from the sun, and > from the earth to the sensor.  Would you expect the atmosphere to affect imaging using > aircraft more or less than imaging from satellites?
 >
 > > ## Solution
 > > ???
