@@ -75,7 +75,7 @@ I would like to look at remote sensing in four blocks. This is like the system v
 >
 > > ## Solution
 > > 1. A large field of view is possible, allowing large regions of the earth’s surface to be seen in a single image.  It is also feasible to image the whole of the earth’s surface in a practical time frame.  We will see in a later lecture that spacecraft are above the atmosphere and thus are not affected by atmospheric turbulence.
-> > 2. 
+> > 2. Higher spatial resolutions are generally possible, and the user can usually control the region to be imaged.  Often, the imaging characteristics (e.g. the wavebands in which imaging takes place) can be changed between missions allowing more flexibility than with satellite programs.
 > {: .solution}
 {: .challenge}
 
