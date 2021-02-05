@@ -60,12 +60,7 @@ I would like to look at remote sensing in four blocks. This is like the system v
   In the simple quizzes, we set specific questions that again reinforce the lecture just presented, but also sometimes ask you to think more widely about matters. Many of which are designed as preparation for the next or later lecture. Solutions are provided, but it would be good if you could work through the questions before consulting those solutions. 
 
   The important point though, is to learn as much as possible from the quiz questions. Therefore, if necessary, consult the solutions.
-  1. A large field of view is possible, allowing large regions of the earth’s surface to be seen in a single image.  It is also feasible to image the whole of the earth’s surface in a practical time frame.  We will see in a later lecture that spacecraft are above the atmosphere and thus are not affected by atmospheric turbulence.
 
-> > 2. Higher spatial resolutions are generally possible, and the user can usually control the region to be imaged.  Often, the imaging characteristics (e.g. the wavebands in which imaging takes place) can be changed between missions allowing more flexibility than with satellite programs.
-> > 3. Generally, it is more expensive per region imaged to use an aircraft than to use of satellite data which is shared over 100s to 1000s of end users, allowing the imaging costs to be amortised over a much larger user base.  Aircraft also fly through the atmosphere, which is turbulent, meaning that there can be distortions in the geometry of the recorded images.
-> > 4. Images are similar to maps but can reveal, when analysed, an enormous amount of information about the natural cover types on the surface of the earth, how they change with time, how humans have altered and used the landscape, how we might localize searches for minerals and other resources, and as means for creating and updating maps.
-> > 5. Since aircraft fly closer to the earth’s surface the radiation reaching their sensors will travel though a much smaller atmospheric column than the radiation travelling to the sensors on satellites.  One would expect, therefore, that the atmosphere would have less effect on the images recorded by aircraft.
 
 > ## Quiz
 >
