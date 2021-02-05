@@ -63,13 +63,15 @@ I would like to look at remote sensing in four blocks. This is like the system v
 
 > ## Quiz
 >
-> 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning 
-> mirrors.  Why?
+> 1. What are the benefits of imaging from space?
 >
-> 2. With  aircraft systems, why is IFOV a more  meaningful term than pixel size? Has it to do with the
-> flying height?
+> 2. What are the benefits of imaging from aircraft?
 >
-> 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
+> 3. What are the disadvantages of using an aircraft to image the earth’s surface?
+>
+> 4. Why should we want to form images of the earth’s surface?
+>
+> 5. The atmosphere can selectively (with wavelength) absorb radiation from the sun, and from the earth to the sensor.  Would you expect the atmosphere to affect imaging using aircraft more or less than imaging from satellites?
 >
 > > ## Solution
 > > ???
