@@ -59,7 +59,7 @@ I would like to look at remote sensing in four blocks. This is like the system v
 
   In the simple quizzes, we set specific questions that again reinforce the lecture just presented, but also sometimes ask you to think more widely about matters. Many of which are designed as preparation for the next or later lecture. Solutions are provided, but it would be good if you could work through the questions before consulting those solutions. 
 
-  The important point though, is to learn as much as possible from the quiz questions. Therefore, if necessary, consult the solutions.
+  The important point though, is to learn as much as possible from the quiz questions. Therefore, if necessary, consult the solutions. Test
 
 > ## Quiz
 >
