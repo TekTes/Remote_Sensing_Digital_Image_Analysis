@@ -41,6 +41,4 @@ At the end of this module, we meet one of the most significant image processing 
 > > ???
 > {: .solution}
 {: .challenge}
-
-
  {% include links.md %}
