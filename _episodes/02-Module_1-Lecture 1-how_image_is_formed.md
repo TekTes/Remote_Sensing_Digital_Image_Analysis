@@ -94,7 +94,7 @@ information about the natural cover types on the surface of the earth, how they
 change with time, how humans have altered and used the landscape, how we might
 localize searches for minerals and other resources, and as means for creating and updating
 maps.
->> 5. Since aircraft fly closer to the earth’s surface the radiation reaching their sensors will
+> > 5. Since aircraft fly closer to the earth’s surface the radiation reaching their sensors will
 travel though a much smaller atmospheric column than the radiation travelling to
 the sensors on satellites.  One would expect, therefore, that the atmosphere would
 have less effect on the images recorded by aircraft.
