@@ -27,4 +27,5 @@ Our ultimate course goal is to know how to analyze images so we can gather infor
 At the end of this module, we meet one of the most significant image processing tools in the field. It is called principal components analysis; it arises time and again throughout our course and is the first time we encounter some mathematical development. While that may be foreign to some of you, it is important that you at least understand the fundamental ideas, since they underpin some of our later material. 
 
 
+
  {% include links.md %}
