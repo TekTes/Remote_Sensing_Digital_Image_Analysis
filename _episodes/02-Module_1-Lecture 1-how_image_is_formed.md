@@ -61,4 +61,20 @@ I would like to look at remote sensing in four blocks. This is like the system v
 
   The important point though, is to learn as much as possible from the quiz questions. Therefore, if necessary, consult the solutions.
 
+> ## Quiz
+>
+> 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning 
+> mirrors.  Why?
+>
+> 2. With  aircraft systems, why is IFOV a more  meaningful term than pixel size? Has it to do with the
+> flying height?
+>
+> 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
+>
+> > ## Solution
+> > ???
+> > ???
+> {: .solution}
+{: .challenge}
+
 {% include links.md %}

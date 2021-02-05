@@ -42,4 +42,20 @@ In summary, the important message from this lecture is that the atmosphere inter
 
 In addition to this set of quiz questions, you might like to think about how you would design a remote sensing imager to map the surfaces of Mars and Venus, that requires you to think a bit about the atmospheres of those planets and the particular challenge of seeing the surface of Venus.
 
+> ## Quiz
+>
+> 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning 
+> mirrors.  Why?
+>
+> 2. With  aircraft systems, why is IFOV a more  meaningful term than pixel size? Has it to do with the
+> flying height?
+>
+> 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
+>
+> > ## Solution
+> > ???
+> > ???
+> {: .solution}
+{: .challenge}
+
 {% include links.md %}
