@@ -64,8 +64,12 @@ Now that we have seen how images can be recorded, we can summarize their importa
 > 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
 >
 > > ## Solution
-> > ???
-> > ???
+> > 1. Scanning sensors allow each “pixel” to be seen for only a short time during the across-track sweep, compared with a push broom CCD array which allows each “pixel” to be seen for a longer time.  The reason for this is that the scanning mirror has to cover all the pixels in a scan line compared with the CCD, which has one detector per pixel across the scan.  Because of the longer observation (or dwell) time per pixel, more energy per unit area is received by the CCD sensor allowing finer spatial resolutions to be achieved and narrower spectral bands, if needed.  We can look at this mathematically, in an approximate manner, as follows.
+> > The spectral power density from the sun created at the earth’s surface can be regarded as a constant at a given time.   It has units of watts per square metre per micrometre of wavelength (Wm-2µm-1).  From this density field the actual energy at the ground captured by a sensor, with a given pixel size and over a particular band can be expressed as
+> > Energy in joules = spectral power density (Wm-2µm-1) x pixel size (m2) x width of the spectral band (µm) x dwell time (sec)
+> > Thus, if the dwell time is much larger, as in the case of a CCD array, the pixel size and width of the spectral band can be smaller for the same energy capture.
+> > 2. Pixel size is defined by the product of IFOV (in radians) and the altitude of the sensor (in metres).  Since aircraft fly at different altitudes in different missions the concept of spatial resolution, or pixel size on the ground, is not helpful because it can be different from mission to mission.  By contrast IFOV is a constant from mission to mission since it is a characteristic of the sensor and not the platform.  Satellites fly at a constant altitude so it is meaningful to talk in terms of spatial resolution, or pixel size.
+> > 3. Yes, because the IFOV of the sensor is a constant.  The pixel size on the ground is defined by the product of the IFOV and the distance from the sensor to the spot on the ground.  That distance is smallest directly under the platform (at nadir) and is largest at the swath edges.  Thus, the pixel areas imaged across the swath gets larger from nadir to the swath edge.  For many sensors (e.g. on Landsat) that can be a negligible difference, but for wide FOV sensors, such as that on Aqua and Terra, the effect is quite large. 
 > {: .solution}
 {: .challenge}
 
