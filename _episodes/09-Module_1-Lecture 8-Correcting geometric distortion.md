@@ -39,7 +39,7 @@ If we examine the geometric characteristics of other distortion types, it is pos
 We have only reviewed the most significant sources of geometric distortion here, please consult some standard textbooks to see the very large range of mechanisms that can cause geometric errors in an image. 
 
 The first question here has been treated in the lecture, the idea of the question is for you to derive the matrix form of the correction. The third question is particularly interesting. Later in this course, we're going to treat methods for attaching labels to pixels indicating what they represent in terms of ground cover types. This question asks you to consider whether the geometry of an image should be corrected before that labeling process is carried out, or whether the labeling should be done first and then the labeled pixels corrected for the geometric positions. 
-
+Test
 > ## Quiz
 >
 > 1. One form of geometric distortion is a scale change  horizontally that resultsfrom over• or under-sampling along  a scan line.  What do you think the correction matrix might look like?
