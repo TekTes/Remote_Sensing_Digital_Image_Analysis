@@ -59,16 +59,18 @@ The first question here has been treated in the lecture, the idea of the questio
 > >
 > >    To correct the image, we have to compute the map coordinates from the image coordinates, which means inverting this expression to give![matrix2](..\fig\Lec_8\Quiz\matrix2.png)
 > >
-> >    2. Let M1,M2,M3 etc. be matrices that correct for different types of geometric 
-> >       distortion.  Then the combined distortion can be described by 
+> >    
+> >    
+> > 2. Let M1,M2,M3 etc. be matrices that correct for different types of geometric distortion.  Then the combined distortion can be described by 
 > >
-> >       ![matrix3](..\fig\Lec_8\Quiz\matrix3.png)
+> >    ![matrix3](..\fig\Lec_8\Quiz\matrix3.png)
 > >
 > >    , which needs to be inverted to produce the correction equation. 
 > >
-> >    3. In principle it shouldn’t really matter, especially if nearest neighbor resampling is used (see later lecture).  However, there is a school of thought which says that is it better not to do anything to the original pixel values that might introduce noise or some small difference into their values.  In that case, it would be better to analyse the original data to create class labels beforehand and then carryout the correction of geometry.
-> >       {: .solution}
-> >       {: .challenge}
+> > 3. In principle it shouldn’t really matter, especially if nearest neighbor resampling is used (see later lecture).  However, there is a school of thought which says that is it better not to do anything to the original pixel values that might introduce noise or some small difference into their values.  In that case, it would be better to analyse the original data to create class labels beforehand and then carryout the correction of geometry.
+> >
+> {: .solution}
+{: .challenge}
 
 
 
