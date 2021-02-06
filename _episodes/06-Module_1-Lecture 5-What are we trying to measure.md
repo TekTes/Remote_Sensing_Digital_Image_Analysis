@@ -115,7 +115,7 @@ A receiver on the platform detects scattered radiation, which is then used to cr
 >
 > 5. From your knowledge of radio reception and mobile telephones, do you think radar imaging could take  place through clouds and rain?
 >
-> > ## Answers
+> > ## Solutions
 > >
 > > 1. The Planck radiation curve has a maximum in the vicinity of 3-5µm for a black body at a temperature of 1000K, which is about the temperature of a well-developed wildfire.  A sensor operating at those wavelengths would be best for detecting burning fires, and would certainly receive a much greater signal than optical or thermal sensors.  For non-fire regions the level of detail in a 3-5µm image would not be good.
 > >
