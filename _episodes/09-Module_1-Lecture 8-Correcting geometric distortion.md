@@ -42,19 +42,35 @@ The first question here has been treated in the lecture, the idea of the questio
 
 > ## Quiz
 >
-> - One form of geometric distortion is a scale change  horizontally that resultsfrom over• or under-sampling along  a scan line.  What do you think the correction matrix might look like?
+> 1. One form of geometric distortion is a scale change  horizontally that resultsfrom over• or under-sampling along  a scan line.  What do you think the correction matrix might look like?
 >
-> - Show how the corrections for several different distortions can be combined into a single
-step.
+> 2. Show how the corrections for several different distortions can be combined into a single
+> step.
 >
-> - Later in this course we are going to look at methods for deciding what ground cover type is represented by each pixel.  We will then give the pixel  a label.  Do you think  it would better to do that before removing geometric distortions, or should the geometry be corrected beforehand?
+> 3. Later in this course we are going to look at methods for deciding what ground cover type is represented by each pixel.  We will then give the pixel  a label.  Do you think  it would better to do that before removing geometric distortions, or should the geometry be corrected beforehand?
 >
 > > ## Solution
 > >
-> > ???
-> > ???
-> {: .solution}
-{: .challenge}
+> > 1. The recorded image would have its horizontal scale distorted compared with the correct scale on the map.  The vertical scale is unaffected.  To correct the error, we can scale either the horizontal (x) axis or the vertical (y) axis to get the correct aspect ratio.  In practice the vertical scale is usually adjusted.  For example, in the case of the Landsat multispectral scanner the vertical scale is expanded by 1.411 to account for the over-sampling along a scan line (see J.A. Richards, Remote Sensing Digital Image Analysis, 5th ed., Springer, Berlin, 2013, page 65.) 
+> >
+> >    Thus: x = u and y =av. In matrix form this distortion is described by
+> >
+> >    ![matrix1](..\fig\Lec_8\Quiz\matrix1.png)
+> >
+> >    To correct the image, we have to compute the map coordinates from the image coordinates, which means inverting this expression to give![matrix2](..\fig\Lec_8\Quiz\matrix2.png)
+> >
+> >    2. Let M1,M2,M3 etc. be matrices that correct for different types of geometric 
+> >       distortion.  Then the combined distortion can be described by 
+> >
+> >       ![matrix3](..\fig\Lec_8\Quiz\matrix3.png)
+> >
+> >    , which needs to be inverted to produce the correction equation. 
+> >
+> >    3. In principle it shouldn’t really matter, especially if nearest neighbor resampling is used (see later lecture).  However, there is a school of thought which says that is it better not to do anything to the original pixel values that might introduce noise or some small difference into their values.  In that case, it would be better to analyse the original data to create class labels beforehand and then carryout the correction of geometry.
+> >       {: .solution}
+> >       {: .challenge}
+
+
 
 {% include links.md %}
 
