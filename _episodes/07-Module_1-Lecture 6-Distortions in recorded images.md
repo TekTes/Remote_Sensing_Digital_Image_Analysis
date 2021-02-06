@@ -112,20 +112,28 @@ In the first of these questions, use your own experience, particularly if you ha
 > 3. what would be recorded in each of the following situations, over the visible to reflected infrared 
 >range of wavelengths;
 >
->    - No atmosphere and an ideal reflecting surface that reflects all incident energy, irrespective of 
+>    a - No atmosphere and an ideal reflecting surface that reflects all incident energy, irrespective of 
 >wavelength
 >
->    - A clear atmosphere and an ideal reflecting surface
+>    b - A clear atmosphere and an ideal reflecting surface
 >
->    - No atmosphere, but a vegetated surface (use the spectral reflectance curve for vegetation from 
+>    c - No atmosphere, but a vegetated surface (use the spectral reflectance curve for vegetation from 
 >Lecture Three)
 >
->    - A clear atmosphere and a vegetated surface
+>    d - A clear atmosphere and a vegetated surface
 >
 > > ## Solution
 > >
-> > ???
-> > ???
+> > 1. There will be significant scattering of blue sunlight under all three conditions, so that the blue band would appear hazy; the other two would look moderately free of any atmospheric effect.  At the other extreme of particulates (fog, for example) all visible bands would be affected showing a whitish haze over the scene.  For the in-between scattering condition, the blue band would look hazy, the green band slightly so, and the red band clear of any major effects.
+> > 2. The histogram matching technique could be used as described in the lectures, in which the histograms of the lines of pixels recorded by each detector are matched. 
+> > A simpler approach is to compute the mean and standard deviation of the lines of pixels recorded by each detector and match the signals of all other detectors to the first one such that the means and standard deviations then become all the same.  A formula for doing that will be found on page 30 of J.A. Richards, Remote Sensing Digital Image Analysis, 5th Ed., Springer, Berlin, 2013.
+> > 3. a - The surface would appear white
+> > b - The surface would appear white, with some blue haze
+> > c - The surface would be coloured according to the positions of the bands on the
+vegetation reflectance spectrum
+> > d - The surface would be coloured according to the positions of the bands on the
+vegetation reflectance spectrum but with a slight emphasis to the blue end of
+the spectrum
 > {: .solution}
 {: .challenge}
 
