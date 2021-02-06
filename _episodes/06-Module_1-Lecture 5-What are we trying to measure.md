@@ -124,15 +124,15 @@ A receiver on the platform detects scattered radiation, which is then used to cr
 > >
 > > If the soil were as depicted here, i.e. not bright like sand, a near-IR wavelength would be good.  However, often soil and vegetation are both fairly bright in the near-IR.  While that would give good differentiation from water, often a visible red band would be chosen for good vegetation/soil discrimination.  Water would generally be slightly darker than vegetation.
 > >
-> > 3. The following diagram is repeated from the lectures and shows the placement of the ETM+ bands.
+> >   3. The following diagram is repeated from the lectures and shows the placement of the ETM+ bands.
 > >
 > >    ![landsat_ETM+](..\fig\landsat_ETM+.png)
 > >
 > >The first three bands sample the blue, green and red portions of the spectrum (important to water and vegetation studies), while the fourth samples the near-IR, which we know is especially important in vegetation studies; it is affected by the cellular structure of vegetative matter.  The other two sample into the mid-IR but avoid the water absorption bands.  That region is important to the detection of mineralogically important soils and rocks and for assessing the moisture content of vegetation.
 > >
-> > 4. Yes, because radar carries its own source of illumination (irradiation) and is thus not dependent on scattered sunlight.
+> >   4. Yes, because radar carries its own source of illumination (irradiation) and is thus not dependent on scattered sunlight.
 > >
-> > 5. Yes, certainly at wavelengths corresponding to frequencies of about 1-2GHz.  Once radar frequencies exceed about 10GHz, however, rain attenuation can be a problem, although clouds are generally OK.  See J.A. Richards, Radio Wave Propagation, Springer, Berlin, 2008.
+> >   5. Yes, certainly at wavelengths corresponding to frequencies of about 1-2GHz.  Once radar frequencies exceed about 10GHz, however, rain attenuation can be a problem, although clouds are generally OK.  See J.A. Richards, Radio Wave Propagation, Springer, Berlin, 2008.
 > > You may wish to note that lamda(m)= 300/f(MHz)
 > {: .solution}
 {: .challenge}
