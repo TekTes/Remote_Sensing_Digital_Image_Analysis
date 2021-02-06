@@ -76,6 +76,7 @@ The summary at the bottom of this page is effectively a statement of the importa
 > 2. Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time? Its orbital period is 98.9 minutes.
 >
 > 3. What platform would you choose in each of the following applications?
+>
 >   a. Mapping forests on a continental scale.
 >   b. Daily monitoring fence conditions on a farm.
 >   c. Monitoring an actively burning forest fire that covers about 50ha.
@@ -86,6 +87,7 @@ The summary at the bottom of this page is effectively a statement of the importa
 > > 2. There are 1440 minutes per day, so there will be almost 15 orbits per day; USGS
 works on 14.  Over 16 days that gives 224 orbits.
 > > 3. 
+> >
 > > a. Satellite
 > > b. Drone (UAV)
 > > c. Aircraft
