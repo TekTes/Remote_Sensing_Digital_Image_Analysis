@@ -116,13 +116,24 @@ A receiver on the platform detects scattered radiation, which is then used to cr
 > 5. From your knowledge of radio reception and mobile telephones, do you think radar imaging could take  place through clouds and rain?
 >
 > > ## Solution
-> > 1. Scanning sensors allow each “pixel” to be seen for only a short time during the across-track sweep, compared with a push broom CCD array which allows each “pixel” to be seen for a longer time.  The reason for this is that the scanning mirror has to cover all the pixels in a scan line compared with the CCD, which has one detector per pixel across the scan.  Because of the longer observation (or dwell) time per pixel, more energy per unit area is received by the CCD sensor allowing finer spatial resolutions to be achieved and narrower spectral bands, if needed.  We can look at this mathematically, in an approximate manner, as follows.
+> > 1. The Planck radiation curve has a maximum in the vicinity of 3-5µm for a black body at a temperature of 1000K, which is about the temperature of a well-developed wildfire.  A sensor operating at those wavelengths would be best for detecting burning fires, and would certainly receive a much greater signal than optical or thermal sensors.  For non-fire regions the level of detail in a 3-5µm image would not be good.
+> >
+> > 2. To answer this, we return to the spectral reflectance curves of common earth surface cover types.
+> >
+> > > > ![EOL-quiz-answers-module-1](..\fig\EOL-quiz-answers-module-1.jpg)
+> >
+> > If the soil were as depicted here, i.e. not bright like sand, a near-IR wavelength would be good.  However, often soil and vegetation are both fairly bright in the near-IR.  While that would give good differentiation from water, often a visible red band would be chosen for good vegetation/soil discrimination.  Water would generally be slightly darker than vegetation.
+> >
+> > 3. The following diagram is repeated from the lectures and shows the placement of the ETM+ bands.
+> >
 > > > >   ![landsat_ETM+](..\fig\landsat_ETM+.png)
-> > The spectral power density from the sun created at the earth’s surface can be regarded as a constant at a given time.   It has units of watts per square metre per micrometre of wavelength (Wm-2µm-1).  From this density field the actual energy at the ground captured by a sensor, with a given pixel size and over a particular band can be expressed as
-> > Energy in joules = spectral power density (Wm-2µm-1) x pixel size (m2) x width of the spectral band (µm) x dwell time (sec)
-> > Thus, if the dwell time is much larger, as in the case of a CCD array, the pixel size and width of the spectral band can be smaller for the same energy capture.
-> > 2. Pixel size is defined by the product of IFOV (in radians) and the altitude of the sensor (in metres).  Since aircraft fly at different altitudes in different missions the concept of spatial resolution, or pixel size on the ground, is not helpful because it can be different from mission to mission.  By contrast IFOV is a constant from mission to mission since it is a characteristic of the sensor and not the platform.  Satellites fly at a constant altitude so it is meaningful to talk in terms of spatial resolution, or pixel size.
-> > 3. Yes, because the IFOV of the sensor is a constant.  The pixel size on the ground is defined by the product of the IFOV and the distance from the sensor to the spot on the ground.  That distance is smallest directly under the platform (at nadir) and is largest at the swath edges.  Thus, the pixel areas imaged across the swath gets larger from nadir to the swath edge.  For many sensors (e.g. on Landsat) that can be a negligible difference, but for wide FOV sensors, such as that on Aqua and Terra, the effect is quite large. 
+> >
+> >The first three bands sample the blue, green and red portions of the spectrum (important to water and vegetation studies), while the fourth samples the near-IR, which we know is especially important in vegetation studies; it is affected by the cellular structure of vegetative matter.  The other two sample into the mid-IR but avoid the water absorption bands.  That region is important to the detection of mineralogically important soils and rocks and for assessing the moisture content of vegetation.
+> >
+> > 4. Yes, because radar carries its own source of illumination (irradiation) and is thus not dependent on scattered sunlight.
+> >
+> > 5. Yes, certainly at wavelengths corresponding to frequencies of about 1-2GHz.  Once radar frequencies exceed about 10GHz, however, rain attenuation can be a problem, although clouds are generally OK.  See J.A. Richards, Radio Wave Propagation, Springer, Berlin, 2008.
+> > You may wish to note that lamda(m)= 300/f(MHz)
 > {: .solution}
 {: .challenge}
 
