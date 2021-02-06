@@ -100,6 +100,7 @@ A receiver on the platform detects scattered radiation, which is then used to cr
 3. Remember water absorption bands need to be avoided. 
 
    When thinking about the first question, ask yourself how a burning fire front could be mapped against significant surface features such as roads, rivers, and forests. 
+   Tests
 
 > ## Quiz
 >
