@@ -77,15 +77,17 @@ The quiz below asks questions relate to practical aspects of image registration,
 
 > ## Quiz
 >
-> - When might you prefer nearest neighbor resampling over cubic convolution resampling?
-> -  When registering to a map grid is the relative scale of the map and the image important?
-> - When registering two images is the relative scale of the images important?
-> - Suppose you have to register five images together to create an image database in a GIS. Would you chose one image as a master and then register the other four to it, or would you register image 2 to image 1 and then image 3 to the newly registered image 2, and so on?
+> 1. When might you prefer nearest neighbor resampling over cubic convolution resampling?
+> 2. When registering to a map grid is the relative scale of the map and the image important?
+> 3. When registering two images is the relative scale of the images important?
+> 4. Suppose you have to register five images together to create an image database in a GIS. Would you chose one image as a master and then register the other four to it, or would you register image 2 to image 1 and then image 3 to the newly registered image 2, and so on?
 >
 > > ## Solution
 > >
-> > ???
-> > ???
+> > 1. When registering a map, such as when the pixels of an image have been given labels indicating what they represent on the ground, or when speed is important in resampling.
+> > 2. The registered image will be better if the scales are comparable.  Registration can still be carried out is the scales are quite different, but care must be taken not to use nearest neighbor resampling.
+> > 3. As in the previous question, provided a higher order resampling technique (cubic convolution) is used.
+> > 4. It is better to choose one as a reference and register all the others to it.  Otherwise geometric errors will propagate with each successive registration.
 > {: .solution}
 {: .challenge}
 

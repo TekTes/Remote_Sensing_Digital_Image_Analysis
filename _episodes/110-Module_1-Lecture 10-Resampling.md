@@ -49,18 +49,20 @@ The questions here, ask you to think about some practical aspects of using groun
 
 > ## Quiz
 >
-> - What would guide you in selecting good control points?
+> 1. What would guide you in selecting good control points?
 >
-> - Is it preferable to use mapping polynomials of low or high order?
+> 2. Is it preferable to use mapping polynomials of low or high order?
 >
-> - Nearest neighbor resampling uses recorded pixel brightness values for placement on the map grid, whereas cubic convolution resampling creates new, interpolated brightness values. Is either preferable?
+> 3. Nearest neighbor resampling uses recorded pixel brightness values for placement on the map grid, whereas cubic convolution resampling creates new, interpolated brightness values. Is either preferable?
 >
-> - Could the registration techniques treated in the last two lectures be used  to register one map to another map?
+> 4. Could the registration techniques treated in the last two lectures be used  to register one map to another map?
 >
 > > ## Solution
 > >
-> > ???
-> > ???
+> > 1. Points that are well defined geographically on both the map and the image and not liable to change with time (as with many water features).
+> > 2. Generally higher order if one has confidence that the control points are accurately  located and are well spread over the image. 
+> > 3. Cubic convolution is generally preferable if there is a difference in the scales of the map and image and to ensure that the registered image is smooth looking.  Nearest neighbor is good if the scales of the image and map are not too different.
+> > 4. Yes, provided the maps are digitized and it is possible to recognize sets of control points in both.  Nearest neighbor resampling is then the only viable resampling option.
 > {: .solution}
 {: .challenge}
 

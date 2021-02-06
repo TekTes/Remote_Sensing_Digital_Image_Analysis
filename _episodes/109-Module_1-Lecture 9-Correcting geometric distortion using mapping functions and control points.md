@@ -130,17 +130,18 @@ Will a straight line always do a better job, than a cubic polynomial or not?
 
 > ## Quiz
 >
-> - One form of geometric distortion is a scale change  horizontally that results from over or under-sampling along  a scan line.  What do you think the correction matrix might look like?
+> 1. One form of geometric distortion is a scale change  horizontally that results from over or under-sampling along  a scan line.  What do you think the correction matrix might look like?
 >
-> - Show how the corrections for several different distortions can be combined into a single
+> 2.  Show how the corrections for several different distortions can be combined into a single
 >   step.
 >
-> - Later in this course we are going to look at methods for deciding what ground cover type is represented by each pixel.  We will then give the pixel  a label.  Do you think  it would better to do that before removing geometric distortions, or should the geometry be corrected beforehand?
+> 3.  Later in this course we are going to look at methods for deciding what ground cover type is represented by each pixel.  We will then give the pixel  a label.  Do you think  it would better to do that before removing geometric distortions, or should the geometry be corrected beforehand?
 >
 > > ## Solution
 > >
-> > ???
-> > ???
+> > 1. Yes, by expressing the map coordinates (x and y) as polynomials in the image coordinates (u and v).
+> > 2. High order or high degree polynomials will fit the control points but will not extrapolate well beyond the region of the control points.  By comparison lower order polynomials will extrapolate acceptably but may not fit as well in the vicinity of the control points.
+> > 3. One image (called the master) can take the place of the map, and the other image (called the slave) can be registered to it.  If, however, it is important that the registered pair have good alignment with a map base, it is better to register each of them to the map separately.
 > {: .solution}
 {: .challenge}
 
