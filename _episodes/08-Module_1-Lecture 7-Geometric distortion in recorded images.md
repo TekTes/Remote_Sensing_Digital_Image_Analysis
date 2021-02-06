@@ -88,10 +88,10 @@ The last point in this summary demonstrates the expansion of the image across th
 > 2. Would the following be sources of geometric distortion *for* a pushbroom scanner?
 >
 >    a - Finite scan time
->    b - Scanning non-linearities
->    c - Wide field of view systems
 >
-> 
+>    b - Scanning non-linearities
+>
+>    c - Wide field of view systems
 >
 > > ## Solution
 > >
@@ -104,6 +104,7 @@ The last point in this summary demonstrates the expansion of the image across th
 > > c - The displayed imaged will be distorted in a rolling fashion (from side to side along the swath) but in the opposite direction to the physical roll
 > > 
 > > d - The displayed image will look compressed as the track progresses, because a greater swath width is being imaged with time but displayed as the same width as the earlier parts of the scan
+> >
 > > 2.
 > >
 > > a - No, because there is no across the track scanning
