@@ -81,22 +81,36 @@ The last point in this summary demonstrates the expansion of the image across th
 > ## Quiz
 >
 > 1. How would each of the following sources of geometric distortion appear in a displayed image?
->    - Earth curvature
->    - Finite sensor scan time
->    - Platform roll
->    - Platform gradually rising in height during orbit
+>    a - Earth curvature
+>    b - Finite sensor scan time
+>    c - Platform roll
+>    d - Platform gradually rising in height during orbit
 > 2. Would the following be sources of geometric distortion *for* a pushbroom scanner?
 >
->    - Finite scan time
->    - Scanning non-linearities
->    - Wide field of view systems
+>    a - Finite scan time
+>    b - Scanning non-linearities
+>    c - Wide field of view systems
 >
 > 
 >
 > > ## Solution
 > >
-> > ???
-> > ???
+> > 1. 
+> > 
+> > a - The image would appear to roll off at the edges, giving rise to the S-bend effect
+> > 
+> > b - The side of the image swath at the end of the scan would appear shifted backwards (in the displayed product)
+> > 
+> > c - The displayed imaged will be distorted in a rolling fashion (from side to side along the swath) but in the opposite direction to the physical roll
+> > 
+> > d - The displayed image will look compressed as the track progresses, because a greater swath width is being imaged with time but displayed as the same width as the earlier parts of the scan
+> > 2.
+> >
+> > a - No, because there is no across the track scanning
+> > 
+> > b - No, because there is no scanning mirror
+> >
+> > c - Yes, because a wide FOV is a function of the design of the area to be scanned and is not dependent on the type of imaging device
 > {: .solution}
 {: .challenge}
 
