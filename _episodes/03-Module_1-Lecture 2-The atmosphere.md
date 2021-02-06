@@ -44,17 +44,16 @@ In addition to this set of quiz questions, you might like to think about how you
 
 > ## Quiz
 >
-> 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning 
-> mirrors.  Why?
+> 1. Mobile (cell) phones operate at wavelengths of about 1GHz to 2GHz. Would you expect mobile telephone reception to be affected by atmospheric absorption?
 >
-> 2. With  aircraft systems, why is IFOV a more  meaningful term than pixel size? Has it to do with the
-> flying height?
+> 2. Is atmospheric absorption a problem for us when we image the ground from an aircraft?
 >
-> 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
+> 3. Sensors for monitoring fires on the earth’s surface tend to operate at about 3-5mm.  Is the atmosphere a problem for effective imaging?
 >
 > > ## Solution
-> > ???
-> > ???
+> > Looking at the graph of the transmission of the atmosphere we see that the atmosphere is almost, but not quite, totally transparent at those frequencies.  We would expect very little effect of the atmosphere on mobile phone reception.  That is particularly the case because the distances involved between a mobile handset and a nearby cell base station is generally only in the order of 10’s of kilometres, or less.
+> > This is essentially a repeat of a question from the last lecture, just to remind us that aircraft remote sensing missions are not significantly affected by atmospheric absorption.  Flying through the atmosphere is another matter—aircraft encounter turbulence, which leads to geometry distortions in recorded imagery.  By contrast, this is less of a problem for satellites.
+> > Again, looking at the graph of atmospheric transmission we see there is some significant absorption at those wavelengths.  When monitoring fires from aircraft, which is currently the most common situation, the atmospheric column is rarely large enough to cause serious problems.
 > {: .solution}
 {: .challenge}
 
