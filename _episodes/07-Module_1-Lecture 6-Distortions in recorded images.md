@@ -128,9 +128,12 @@ In the first of these questions, use your own experience, particularly if you ha
 > > 2. The histogram matching technique could be used as described in the lectures, in which the histograms of the lines of pixels recorded by each detector are matched. 
 > > A simpler approach is to compute the mean and standard deviation of the lines of pixels recorded by each detector and match the signals of all other detectors to the first one such that the means and standard deviations then become all the same.  A formula for doing that will be found on page 30 of J.A. Richards, Remote Sensing Digital Image Analysis, 5th Ed., Springer, Berlin, 2013.
 > > 3. a - The surface would appear white
+> >
 > > b - The surface would appear white, with some blue haze
+> >
 > > c - The surface would be coloured according to the positions of the bands on the
 vegetation reflectance spectrum
+> >
 > > d - The surface would be coloured according to the positions of the bands on the
 vegetation reflectance spectrum but with a slight emphasis to the blue end of
 the spectrum
