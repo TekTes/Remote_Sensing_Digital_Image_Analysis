@@ -113,6 +113,7 @@ A receiver on the platform detects scattered radiation, which is then used to cr
 >
 > > ## Solution
 > > 1. Scanning sensors allow each “pixel” to be seen for only a short time during the across-track sweep, compared with a push broom CCD array which allows each “pixel” to be seen for a longer time.  The reason for this is that the scanning mirror has to cover all the pixels in a scan line compared with the CCD, which has one detector per pixel across the scan.  Because of the longer observation (or dwell) time per pixel, more energy per unit area is received by the CCD sensor allowing finer spatial resolutions to be achieved and narrower spectral bands, if needed.  We can look at this mathematically, in an approximate manner, as follows.
+> > > >   ![landsat_ETM+](..\fig\landsat_ETM+.png)
 > > The spectral power density from the sun created at the earth’s surface can be regarded as a constant at a given time.   It has units of watts per square metre per micrometre of wavelength (Wm-2µm-1).  From this density field the actual energy at the ground captured by a sensor, with a given pixel size and over a particular band can be expressed as
 > > Energy in joules = spectral power density (Wm-2µm-1) x pixel size (m2) x width of the spectral band (µm) x dwell time (sec)
 > > Thus, if the dwell time is much larger, as in the case of a CCD array, the pixel size and width of the spectral band can be smaller for the same energy capture.
