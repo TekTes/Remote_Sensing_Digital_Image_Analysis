@@ -103,13 +103,17 @@ A receiver on the platform detects scattered radiation, which is then used to cr
 
 > ## Quiz
 >
-> 1. CCD array sensors tend to have higher spatial and spectral resolution than those based on scanning 
-> mirrors.  Why?
+> 1. What wavelength would you choose if you had to image  a burning wildfire on the earth's surface? 
+>    Would it show any useful detail in regions where there is no fire?
 >
-> 2. With  aircraft systems, why is IFOV a more  meaningful term than pixel size? Has it to do with the
-> flying height?
+> 2. What single wavelength would you choose (approximately) if you wanted to produce
+>    an image with best discrimination among water, soil and vegetation features?
 >
-> 3. Will pixel size vary across the swath for an image recorded by a remote sensing platform?
+> 3. Explain why, in your opinion, the Landsat ETM+ bands are placed where they are.
+>
+> 4. Do you  think radar imaging could take place at night?
+>
+> 5. From your knowledge of radio reception and mobile telephones, do you think radar imaging could take  place through clouds and rain?
 >
 > > ## Solution
 > > 1. Scanning sensors allow each “pixel” to be seen for only a short time during the across-track sweep, compared with a push broom CCD array which allows each “pixel” to be seen for a longer time.  The reason for this is that the scanning mirror has to cover all the pixels in a scan line compared with the CCD, which has one detector per pixel across the scan.  Because of the longer observation (or dwell) time per pixel, more energy per unit area is received by the CCD sensor allowing finer spatial resolutions to be achieved and narrower spectral bands, if needed.  We can look at this mathematically, in an approximate manner, as follows.
