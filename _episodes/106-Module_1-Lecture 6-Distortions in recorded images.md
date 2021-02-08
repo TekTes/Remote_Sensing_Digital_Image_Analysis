@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 6
+title: Module 1 Lecture 6 - Distortions in recorded images
 teaching: 
 exercises: 
 questions:

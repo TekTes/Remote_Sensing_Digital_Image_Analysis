@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 3
+title: Module 1 Lecture 3 - What platforms are used for imaging the earth's surface?
 teaching: 
 exercises:
 questions:
@@ -76,10 +76,10 @@ The summary at the bottom of this page is effectively a statement of the importa
 > 2. Landsat 7 takes 16 days to image the whole earth surface.  How many orbits does it make in that time? Its orbital period is 98.9 minutes.
 >
 > 3. What platform would you choose in each of the following applications?
->   a. Mapping forests on a continental scale.
->   b. Daily monitoring fence conditions on a farm.
->   c. Monitoring an actively burning forest fire that covers about 50ha.
->   d. Seasonal monitoring of crop growth and condition in large scale agriculture.
+>     a. Mapping forests on a continental scale.
+>     b. Daily monitoring fence conditions on a farm.
+>     c. Monitoring an actively burning forest fire that covers about 50ha.
+>     d. Seasonal monitoring of crop growth and condition in large scale agriculture.
 >
 > > ## Solution
 > > 1. No, because we depend upon shadowing to help us see topographic detail in the landscape.  Shadowing is minimal at noon, but better early to mid-morning. 

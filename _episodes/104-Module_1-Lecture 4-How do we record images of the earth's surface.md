@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 4
+title: Module 1 Lecture 4 - How do we record images of the earth's surface?
 teaching: 
 exercises:
 questions:

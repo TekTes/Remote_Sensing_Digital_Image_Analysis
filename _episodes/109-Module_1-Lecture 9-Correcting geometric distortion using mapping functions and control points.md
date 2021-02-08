@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 9 
+title: Module 1 Lecture 9 - Correcting geometric distortion using mapping functions and control points
 teaching: 
 exercises: 
 questions:
@@ -133,7 +133,7 @@ Will a straight line always do a better job, than a cubic polynomial or not?
 > 1. One form of geometric distortion is a scale change  horizontally that results from over or under-sampling along  a scan line.  What do you think the correction matrix might look like?
 >
 > 2.  Show how the corrections for several different distortions can be combined into a single
->   step.
+>     step.
 >
 > 3.  Later in this course we are going to look at methods for deciding what ground cover type is represented by each pixel.  We will then give the pixel  a label.  Do you think  it would better to do that before removing geometric distortions, or should the geometry be corrected beforehand?
 >

@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 10 
+title: Module 1 Lecture 10 - Resampling
 teaching: 
 exercises:
 questions:

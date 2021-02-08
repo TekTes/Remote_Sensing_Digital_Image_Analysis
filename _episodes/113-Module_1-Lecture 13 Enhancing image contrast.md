@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 13 Enhancing image contrast
+title: Module 1 Lecture 13 - Enhancing image contrast
 teaching: 
 exercises: 
 questions:

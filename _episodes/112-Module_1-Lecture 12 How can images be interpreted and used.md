@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 12 
+title: Module 1 Lecture 12 - How can images be interpreted and used?
 teaching: 
 exercises: 
 questions:

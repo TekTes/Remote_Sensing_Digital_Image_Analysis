@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 7
+title: Module 1 Lecture 7 - Geometric distortion in recorded images
 teaching: 
 exercises:
 questions:

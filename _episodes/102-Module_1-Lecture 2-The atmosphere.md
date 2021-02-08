@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 2
+title: Module 1 Lecture 2 - The atmosphere
 teaching: 
 exercises:
 questions:

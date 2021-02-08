@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 8
+title: Module 1 Lecture 8 - Correcting geometric distortion
 teaching: 
 exercises:
 questions:

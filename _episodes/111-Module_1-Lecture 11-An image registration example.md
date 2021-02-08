@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 11 
+title: Module 1 Lecture 11 - An image registration example
 teaching: 
 exercises: 
 questions:
