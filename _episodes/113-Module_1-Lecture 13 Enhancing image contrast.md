@@ -34,7 +34,7 @@ This lecture is a little outside the mainstream of our treatment, but it is impo
 > > 2. TThere is a whole range of possibilities.  Piecewise-linear functions can be used to control brightness changes in certain ranges, an exponential function will highlight differences in the higher brightness levels, whereas a logarithmic function will highlight differences at lower brightness levels.  See Section 4.3 in J.A. Richards, Remote Sensing Digital Image Analysis, 5th Ed., Springer, Berlin, 2013.
 > >
 > > 3. Yes, it will be a two-dimensional array of cells, with the axes corresponding to the brightness values in each of the two bands and the cell values being equal to the count of those pixels which have both of the brightness values.
-> >   {: .solution}
-> >   {: .challenge}
+>  {: .solution}
+{: .challenge}
 
 {% include links.md %}
