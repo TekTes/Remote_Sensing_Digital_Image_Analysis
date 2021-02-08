@@ -3,15 +3,17 @@ title: Module 1 Lecture 12
 teaching: 
 exercises: 
 questions:
-- "How do we enhance image contrast?"
+- "How can images be interpreted and used?"
 objectives:
-- "Understand the processes of contrast Enhancements"
+- "Understand the interpretation of images and how to use them"
 keypoints:
-- "imagery. as originally recorded,is generally poor in contrast because It 0doesn't use the available brightness range."
+- "Interpreting imagery visually - ie. by the technique called "photointerpretation" - requires an image product to inspect. Since only three colour primaries can be used to form a display, the user has to select the best three bands for this purpose."
 
-- "Contrast can be enhanced effectively by adjusting the brightness value of each pixel according to a brightness value mapping function."
+- "Almost-natural colour images can be produced  by using bands recorded  in the blue, green and red wavelength  ranges."
 
-- "Because we only have a discrete number of brightness values (say 256, 512, etc), set by the radiometric resolution of the sensor, the brightness value mapping function is often implemented  in the form of a look-up table."
+- "A common and very useful colour image is called colour infrared". It emulates the use of colour infrared film from the early days of remote sensing and photogrammetry.  A near infrared band is displayed as red, a red  recorded band is displayed as green and a green recorded  band is displayed as blue."
+
+- "Although not treated here, most recorded images will be dominated by reddish hues. That can be appreciated  by looking at the spectral  reflectance cover types, in which both vegetated and bare/soil surfaces have high near infrared reflectances.  An image is usually contrast enhanced  beforehand  so that soils etc., take on a blue-green colour. See J.A,  Richards, Remote Sensing Digital Image Analysis, Springer, Berlin, 2013, p.83"
 ---
 
 
