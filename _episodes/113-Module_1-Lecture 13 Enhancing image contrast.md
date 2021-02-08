@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Understand the processes of contrast Enhancements"
 keypoints:
-- "imagery. as originally recorded,is generally poor in contrast because It 0doesn't use the available brightness range."
+- "Imagery. as originally recorded,is generally poor in contrast because It doesn't use the available brightness range."
 
 - "Contrast can be enhanced effectively by adjusting the brightness value of each pixel according to a brightness value mapping function."
 
