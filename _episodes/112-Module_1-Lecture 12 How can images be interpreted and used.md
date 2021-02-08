@@ -7,11 +7,6 @@ questions:
 objectives:
 - "Understand the interpretation of images and how to use them"
 keypoints:
-- "Interpreting imagery visually - ie. by the technique called "photointerpretation" - requires an image product to inspect. Since only three colour primaries can be used to form a display, the user has to select the best three bands for this purpose."
-
-- "Almost-natural colour images can be produced  by using bands recorded  in the blue, green and red wavelength  ranges."
-
-- "A common and very useful colour image is called colour infrared". It emulates the use of colour infrared film from the early days of remote sensing and photogrammetry.  A near infrared band is displayed as red, a red  recorded band is displayed as green and a green recorded  band is displayed as blue."
 
 ---
 
