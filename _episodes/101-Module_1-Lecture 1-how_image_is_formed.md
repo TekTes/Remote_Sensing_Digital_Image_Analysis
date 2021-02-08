@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 1
+title: Module 1 Lecture 1 - What is remote sensing?
 teaching: 
 exercises:
 questions:
