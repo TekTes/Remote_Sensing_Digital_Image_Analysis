@@ -1,5 +1,5 @@
 ---
-title: Module 1 Lecture 18 - The principal components transform: worked example
+title: Module 1 Lecture 18 - The principal components transform - worked example
 teaching: 
 exercises: 
 questions:
