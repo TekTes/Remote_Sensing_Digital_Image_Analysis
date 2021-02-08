@@ -13,7 +13,6 @@ keypoints:
 
 - "A common and very useful colour image is called colour infrared". It emulates the use of colour infrared film from the early days of remote sensing and photogrammetry.  A near infrared band is displayed as red, a red  recorded band is displayed as green and a green recorded  band is displayed as blue."
 
-- "Although not treated here, most recorded images will be dominated by reddish hues. That can be appreciated  by looking at the spectral  reflectance cover types, in which both vegetated and bare/soil surfaces have high near infrared reflectances.  An image is usually contrast enhanced  beforehand  so that soils etc., take on a blue-green colour. See J.A,  Richards, Remote Sensing Digital Image Analysis, Springer, Berlin, 2013, p.83"
 ---
 
 
