@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lecture 9 
-teaching: 30
-exercises: 10
+teaching: 
+exercises: 
 questions:
 - "What methods can be used to effectively correct geometric errors?"
 objectives:
