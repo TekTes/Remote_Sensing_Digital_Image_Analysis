@@ -1,3 +1,4 @@
+---
 title: Module 1 Lecture 17  - The principal components transform
 teaching: 
 exercises: 
@@ -8,6 +9,7 @@ questions:
 - "= = ="
   keypoints:
 - "- - -"
+---
 
 ### Module 1 Lecture 17 The principal components transform
 
@@ -20,7 +22,7 @@ We now come to a particularly important concept that you will encounter time and
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>{: .solution}
+{: .challenge}
 
 {% include links.md %}

@@ -1,3 +1,4 @@
+---
 title: Module 1 Lecture 19 - The principal components transform: a real example 
 teaching: 
 exercises: 
@@ -8,6 +9,7 @@ questions:
 - "= = ="
   keypoints:
 - "- - -"
+---
 
 ### Module 1 Lecture 19 The principal components transform: a real example
 
@@ -22,7 +24,7 @@ Here we compare the two principal components sets on one slide, that especially 
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

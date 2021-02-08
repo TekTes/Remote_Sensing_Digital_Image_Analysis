@@ -1,3 +1,4 @@
+---
 title: Module 1 Lecture 20 - Applications of the principal components transform
 teaching: 
 exercises: 
@@ -8,6 +9,7 @@ questions:
 - "= = ="
   keypoints:
 - "- - -"
+---
 
 ### Module 1 Lecture 20 Applications of the principal components transform
 
@@ -20,7 +22,7 @@ We now want to examine the number of applications of principal components analys
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

@@ -1,3 +1,4 @@
+---
 title: Module 1 Lecture 18 - The principal components transform: worked example
 teaching: 
 exercises: 
@@ -8,6 +9,7 @@ questions:
 - "= = ="
   keypoints:
 - "- - -"
+---
 
 ### Module 1 Lecture 18 The principal components transform: worked example
 
@@ -20,7 +22,7 @@ In this lecture, we are going to do a set of hand calculations of a principal co
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

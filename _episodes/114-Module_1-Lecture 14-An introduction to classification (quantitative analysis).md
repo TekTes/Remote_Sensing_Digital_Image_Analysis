@@ -1,3 +1,4 @@
+---
 title: Module 1 Lecture 14 - An introduction to classification 
 teaching: 
 exercises: 
@@ -8,7 +9,7 @@ objectives:
 - "= = ="
 keypoints:
 - "- - -"
-
+---
 ### Module 1 Lecture 14 An introduction to classification (quantitative analysis)
 
 We are now at the stage in our course where we can start seriously looking at how to interpret images recorded by remote sensing missions, particularly using computer-based algorithms. Ultimately, this will take us into a mathematical journey, sometimes quite complex, but we will ensure that if you do not have the required mathematical background, the accompanying description should be sufficient for you to understand how the techniques operate. We start though with our descriptive outline of the essential aspects of computer image analysis, which is often called classification or sometimes quantitative analysis in remote sensing. The first concept to keep in mind is that we almost always work at the level of the individual pixel. There are procedures that take a different approach, but the great many that we will encounter focus on the individual pixel because it is the smallest quantifiable element in an image. Remember, for each pixel, we have a set of recordings composed of the brightness values detected in each of the individual wavebands. That set of measurements is collected together and written in the form of a column surrounded by square brackets, which we call a column vector or a pixel vector. In classification, we use the properties of the pixel vector to help find the label for the pixel, a label that represents one of the classes of ground cover in which we might be interested. For example, if we wanted to use remote sensing to map the natural landscape, we might employ computer classification to analyze each pixel in the image and label them as grass, soil, water, forest, and so on. Once all pixels are labeled, we then have a map of cover types which we call a thematic map because it is a map of themes or classes. The labels are specified by the end user. What the image analyst has to do is come up with a computer based approach that allows those labels to be applied to the pixels through an analysis of the pixel vectors. In this slide, we developed several of the most important concepts in the image analysis. To do so, we have assumed for convenience that the sensor we are dealing with has only two wave bands, one in the visible red and one in the near infrared. Again, for convenience, we assume that the scene being imaged by the remote sensing instrument consists of just three natural cover types, vegetation, soil, and water. Invariably, the first step in any classification process is for the analyst to find sets of pixels in the recorded image for which the cover type is known. In the upper left-hand depiction of the scene, we have indicated by the shaded shapes that the analyst knows that the pixels in those regions are actually pixels of vegetation, soil, and water, as indicated. 
@@ -25,7 +26,7 @@ We now need to remember something from the previous lecture, and that is the sha
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+ {: .challenge}
 
 {% include links.md %}

@@ -1,3 +1,4 @@
+---
 title: Module 1 Lecture 16 - Correlation and covariance
 teaching: 
 exercises: 
@@ -8,6 +9,7 @@ questions:
 - "= = ="
   keypoints:
 - "- - -"
+---
 
 ### Module 1 Lecture 16 Correlation and covariance
 
@@ -20,7 +22,7 @@ We now start our mathematical journey by looking at some properties of groups of
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
