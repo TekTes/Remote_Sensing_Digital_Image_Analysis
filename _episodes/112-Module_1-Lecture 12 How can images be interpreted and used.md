@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Understand the interpretation of images and how to use them"
 keypoints:
-
+- "Interpreting imagery visually - ie. by the technique called 'photointerpretation' - requires an image product to inspect. Since only three colour primaries can be used to form a display, the user has to select the best three bands for this purpose."
 ---
 
 
