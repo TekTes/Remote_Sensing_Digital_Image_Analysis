@@ -1,13 +1,13 @@
 ---
 title: Module 1 Lecture 18 - The principal components transform - worked example
 teaching: 
-exercises: 
+exercises:
 questions:
-- "???"
-  objectives:
-- "= = ="
-  keypoints:
-- "- - -"
+- "?"
+objectives:
+- "--"
+keypoints:
+- "--"
 ---
 
 ### Module 1 Lecture 18 The principal components transform: worked example

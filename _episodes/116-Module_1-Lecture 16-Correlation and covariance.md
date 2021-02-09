@@ -1,13 +1,13 @@
 ---
 title: Module 1 Lecture 16 - Correlation and covariance
 teaching: 
-exercises: 
+exercises:
 questions:
-- "???"
-  objectives:
-- "= = ="
-  keypoints:
-- "- - -"
+- "?"
+objectives:
+- "--"
+keypoints:
+- "--"
 ---
 
 ### Module 1 Lecture 16 Correlation and covariance

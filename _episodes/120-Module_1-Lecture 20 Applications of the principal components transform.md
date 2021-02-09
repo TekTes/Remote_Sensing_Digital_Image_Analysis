@@ -4,9 +4,9 @@ teaching:
 exercises: 
 questions:
 - "???"
-  objectives:
+objectives:
 - "= = ="
-  keypoints:
+keypoints:
 - "- - -"
 ---
 

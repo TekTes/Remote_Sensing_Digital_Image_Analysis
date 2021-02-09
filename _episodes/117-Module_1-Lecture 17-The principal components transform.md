@@ -1,13 +1,13 @@
 ---
 title: Module 1 Lecture 17  - The principal components transform
 teaching: 
-exercises: 
+exercises:
 questions:
-- "???"
-  objectives:
-- "= = ="
-  keypoints:
-- "- - -"
+- "?"
+objectives:
+- "--"
+keypoints:
+- "--"
 ---
 
 ### Module 1 Lecture 17 The principal components transform
