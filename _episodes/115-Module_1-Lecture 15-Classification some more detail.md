@@ -20,7 +20,7 @@ In this lecture, we will consolidate some of the concepts from the last and comp
 > > ## Solution
 > >
 > > 1. 
->    {: .solution}
-    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
