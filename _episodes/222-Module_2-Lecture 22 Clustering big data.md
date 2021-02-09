@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 22: Clustering "big data" 
+title: Module 2 Lecture 22 - Clustering "big data" 
 teaching: 
 exercises: 
 questions:

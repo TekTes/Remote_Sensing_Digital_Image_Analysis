@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 8: The support vector machine—non-linear data
+title: Module 2 Lecture 8 - The support vector machine—non-linear data
 teaching: 
 exercises: 
 questions:

@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 16: Deep learning and the convolutional neural network, part 3
+title: Module 2 Lecture 16 - Deep learning and the convolutional neural network, part 3
 teaching: 
 exercises: 
 questions:

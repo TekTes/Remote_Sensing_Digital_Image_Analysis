@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 2: The maximum likelihood classifier
+title: Module 2 Lecture 2 - The maximum likelihood classifier
 teaching: 
 exercises: 
 questions:

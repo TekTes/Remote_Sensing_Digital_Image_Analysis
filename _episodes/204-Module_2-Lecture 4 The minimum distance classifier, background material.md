@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 4: The minimum distance classifier, background material 
+title: Module 2 Lecture 4 - The minimum distance classifier, background material 
 teaching: 
 exercises: 
 questions:

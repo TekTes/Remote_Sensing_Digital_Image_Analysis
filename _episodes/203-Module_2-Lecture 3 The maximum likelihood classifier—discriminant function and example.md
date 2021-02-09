@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 3: The maximum likelihood classifier—discriminant function and example
+title: Module 2 Lecture 3 - The maximum likelihood classifier—discriminant function and example
 teaching: 
 exercises: 
 questions:

@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 7: The support vector machine—the classification step and overlapping data
+title: Module 2 Lecture 7 - The support vector machine—the classification step and overlapping data
 teaching: 
 exercises: 
 questions:

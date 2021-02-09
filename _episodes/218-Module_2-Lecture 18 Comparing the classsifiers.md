@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 18: Comparing the classsifiers
+title: Module 2 Lecture 18 - Comparing the classsifiers
 teaching: 
 exercises: 
 questions:

@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 5: Training a linear classifier
+title: Module 2 Lecture 5 - Training a linear classifier
 teaching: 
 exercises: 
 questions:

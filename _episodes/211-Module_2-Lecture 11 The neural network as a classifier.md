@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 11: The neural network as a classifier
+title: Module 2 Lecture 11 - The neural network as a classifier
 teaching: 
 exercises: 
 questions:

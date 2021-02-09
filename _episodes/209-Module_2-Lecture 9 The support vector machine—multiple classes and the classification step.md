@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 9: The support vector machine—multiple classes and the classification step
+title: Module 2 Lecture 9 - The support vector machine—multiple classes and the classification step
 teaching: 
 exercises: 
 questions:

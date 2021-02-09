@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 20: Examples of k means clustering
+title: Module 2 Lecture 20 - Examples of k means clustering
 teaching: 
 exercises: 
 questions:

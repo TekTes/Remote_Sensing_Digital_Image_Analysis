@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 19: Unsupervised classification and clustering
+title: Module 2 Lecture 19 - Unsupervised classification and clustering
 teaching: 
 exercises: 
 questions:

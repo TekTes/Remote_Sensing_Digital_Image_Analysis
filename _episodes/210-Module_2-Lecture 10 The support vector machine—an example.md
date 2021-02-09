@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 10: The support vector machine—an example
+title: Module 2 Lecture 10 - The support vector machine—an example
 teaching: 
 exercises: 
 questions:

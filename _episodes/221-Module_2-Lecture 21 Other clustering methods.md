@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 21: Other clustering methods
+title: Module 2 Lecture 21 - Other clustering methods
 teaching: 
 exercises: 
 questions:

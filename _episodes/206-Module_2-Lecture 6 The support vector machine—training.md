@@ -1,5 +1,5 @@
 ---
-title: Module 2 Lecture 6: The support vector machine—training
+title: Module 2 Lecture 6 - The support vector machine—training
 teaching: 
 exercises: 
 questions:
