@@ -1,4 +1,5 @@
---
+
+---
 title: Module 2 Lecture 12 - Training the neural network
 teaching: 
 exercises: 
