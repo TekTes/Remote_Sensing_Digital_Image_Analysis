@@ -19,7 +19,7 @@ In this lecture, we look at how to do clustering with very big data sets, includ
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+>{: .solution}
+{: .challenge}
 
 {% include links.md %}

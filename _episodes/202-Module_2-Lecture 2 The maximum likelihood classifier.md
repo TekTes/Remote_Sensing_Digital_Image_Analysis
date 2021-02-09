@@ -20,7 +20,7 @@ In this lecture, we're going to develop the maximum likelihood classifier. We wi
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}

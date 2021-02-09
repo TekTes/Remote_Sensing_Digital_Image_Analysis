@@ -19,7 +19,7 @@ We now present two examples that illustrate much of what we have discussed in th
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

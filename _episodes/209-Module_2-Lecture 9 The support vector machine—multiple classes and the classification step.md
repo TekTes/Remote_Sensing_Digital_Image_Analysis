@@ -23,7 +23,7 @@ Now come to the fourth step in the support vector machine. That is how to turn a
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}

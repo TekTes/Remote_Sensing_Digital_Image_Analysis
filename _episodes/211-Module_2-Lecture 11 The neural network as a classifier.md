@@ -21,7 +21,7 @@ We now come to the 4th of the classification techniques, we're going to consider
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}

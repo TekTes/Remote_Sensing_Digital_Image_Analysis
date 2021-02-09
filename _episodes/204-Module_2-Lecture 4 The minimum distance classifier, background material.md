@@ -21,7 +21,7 @@ We now commence a journey towards the development of more complex classifiers. T
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}

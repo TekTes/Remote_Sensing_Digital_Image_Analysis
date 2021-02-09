@@ -20,7 +20,7 @@ We now look at how we can train a neural network. While this analysis is importa
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

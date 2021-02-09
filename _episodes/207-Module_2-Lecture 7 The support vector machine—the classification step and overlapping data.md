@@ -21,7 +21,7 @@ We now take the support vector classifier to the next stage of development by lo
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}

@@ -23,7 +23,7 @@ In this lecture, we present two examples of the application of the support vecto
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}

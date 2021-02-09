@@ -19,7 +19,7 @@ In this lecture, we will summarize other methods for clustering and illustrate o
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+>{: .solution}
+{: .challenge}
 
 {% include links.md %}

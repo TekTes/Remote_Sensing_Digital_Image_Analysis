@@ -19,7 +19,7 @@ In this lecture, we look at two examples of K-means clustering. The first uses a
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

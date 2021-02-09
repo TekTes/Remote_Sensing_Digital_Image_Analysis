@@ -19,7 +19,7 @@ In this lecture, we confront the problem of multidimensional images, color pictu
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

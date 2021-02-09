@@ -19,7 +19,7 @@ We now turn to the topic of Unsupervised Classification, in which we are still i
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+>{: .solution}
+{: .challenge}
 
 {% include links.md %}

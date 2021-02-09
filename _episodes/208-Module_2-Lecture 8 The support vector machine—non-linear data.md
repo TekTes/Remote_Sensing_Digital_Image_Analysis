@@ -21,7 +21,7 @@ In this lecture, we look at the third stage of the development of the support ve
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}

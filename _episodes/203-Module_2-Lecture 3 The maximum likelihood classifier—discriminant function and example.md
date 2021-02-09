@@ -21,7 +21,7 @@ In this lecture, we will develop some further aspects of the maximum likelihood 
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>  {: .solution}
+ {: .challenge}
 
 {% include links.md %}

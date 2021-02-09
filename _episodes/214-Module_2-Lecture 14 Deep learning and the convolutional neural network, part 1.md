@@ -19,7 +19,7 @@ Now start a series of four lectures on the transition of the neural network that
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

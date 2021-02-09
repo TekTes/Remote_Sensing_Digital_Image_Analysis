@@ -19,7 +19,7 @@ We will now look at some examples to illustrate the training and performance of 
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

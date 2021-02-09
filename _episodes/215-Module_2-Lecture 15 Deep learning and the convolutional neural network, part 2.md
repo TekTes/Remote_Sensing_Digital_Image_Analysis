@@ -19,7 +19,7 @@ In this lecture, we take the development of the convolutional neural network fur
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

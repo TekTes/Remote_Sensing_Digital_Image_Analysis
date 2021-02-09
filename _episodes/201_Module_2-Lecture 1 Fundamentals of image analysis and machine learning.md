@@ -20,7 +20,7 @@ In the first module, we looked at how remote sensing imagery is acquired. We als
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+ {: .challenge}
 
 {% include links.md %}

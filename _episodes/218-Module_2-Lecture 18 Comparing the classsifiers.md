@@ -19,7 +19,7 @@ Having now completed our examination of the most popular classifiers used in rem
 >
 > > ## Solution
 > >
-> > 1. {: .solution}
-> >    {: .challenge}
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}

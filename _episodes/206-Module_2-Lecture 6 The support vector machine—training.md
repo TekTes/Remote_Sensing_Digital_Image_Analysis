@@ -21,7 +21,7 @@ We're now going to build on the work we did with the simple linear classifier to
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}

@@ -21,7 +21,7 @@ In this lecture we are going to look at Training Methods for Linear Classifiers,
 > > ## Solution
 > >
 > > 1. 
-> >    {: .solution}
-> >    {: .challenge}
+>    {: .solution}
+{: .challenge}
 
 {% include links.md %}
