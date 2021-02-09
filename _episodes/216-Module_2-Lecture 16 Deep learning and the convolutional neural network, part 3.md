@@ -3,7 +3,6 @@ title: Module 2 Lecture 16: Deep learning and the convolutional neural network, 
 teaching: 
 exercises: 
 questions:
-
 - "???"
 objectives:
 - "= = ="

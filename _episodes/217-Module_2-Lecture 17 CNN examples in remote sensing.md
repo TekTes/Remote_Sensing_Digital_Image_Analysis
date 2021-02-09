@@ -3,7 +3,6 @@ title: Module 2 Lecture 17: CNN examples in remote sensing
 teaching: 
 exercises: 
 questions:
-
 - "???"
 objectives:
 - "= = ="

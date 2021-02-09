@@ -3,7 +3,6 @@ title: Module 2 Lecture 13: Neural network examples
 teaching: 
 exercises: 
 questions:
-
 - "???"
 objectives:
 - "= = ="

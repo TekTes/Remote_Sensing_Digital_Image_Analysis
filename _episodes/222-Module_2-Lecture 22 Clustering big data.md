@@ -3,7 +3,6 @@ title: Module 2 Lecture 22: Clustering "big data"
 teaching: 
 exercises: 
 questions:
-
 - "???"
 objectives:
 - "= = ="
