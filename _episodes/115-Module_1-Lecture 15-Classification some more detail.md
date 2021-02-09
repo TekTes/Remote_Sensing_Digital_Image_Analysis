@@ -1,13 +1,16 @@
 ---
 title: Module 1 Lecture 15 - Classification some more detail
 teaching: 
-exercises: 
+exercises:
 questions:
-- "???"
+- "How do we register an image to a map grid?"
 objectives:
-- "= = ="
-  keypoints:
-- "- - -"
+- "Recapping from the previous lecture, plus a bit more:"
+- "Find points in the image that correspond to each location in the map grid. "
+keypoints:
+- "When we want to register an image to a map grid the steps involved are:"
+
+- "- Select control points"
 ---
 ### Module 1 Lecture 15 Classification: some more detail
 
