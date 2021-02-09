@@ -3,7 +3,6 @@ title: Module 1 Lecture 16 - Correlation and covariance
 teaching: 
 exercises: 
 questions:
-
 - "???"
   objectives:
 - "= = ="

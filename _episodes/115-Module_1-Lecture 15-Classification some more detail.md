@@ -3,7 +3,6 @@ title: Module 1 Lecture 15 - Classification some more detail
 teaching: 
 exercises: 
 questions:
-
 - "???"
   objectives:
 - "= = ="

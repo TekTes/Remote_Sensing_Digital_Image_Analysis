@@ -3,7 +3,6 @@ title: Module 1 Lecture 19 - The principal components transform - a real example
 teaching: 
 exercises: 
 questions:
-
 - "???"
   objectives:
 - "= = ="

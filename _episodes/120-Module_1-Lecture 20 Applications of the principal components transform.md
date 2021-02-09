@@ -3,7 +3,6 @@ title: Module 1 Lecture 20 - Applications of the principal components transform
 teaching: 
 exercises: 
 questions:
-
 - "???"
   objectives:
 - "= = ="

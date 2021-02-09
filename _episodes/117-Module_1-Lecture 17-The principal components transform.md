@@ -3,7 +3,6 @@ title: Module 1 Lecture 17  - The principal components transform
 teaching: 
 exercises: 
 questions:
-
 - "???"
   objectives:
 - "= = ="
