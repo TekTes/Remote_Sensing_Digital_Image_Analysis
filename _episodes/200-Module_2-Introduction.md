@@ -1,12 +1,11 @@
-title: Module 1 Intro - Welcome to Module 2
+title: Module 2 Intro - Welcome to Module 2
 teaching: 
 exercises: 
 questions:
-
 - "???"
-  objectives:
+objectives:
 - "= = ="
-  keypoints:
+keypoints:
 - "- - -"
 
 ### Welcome to Module 2
