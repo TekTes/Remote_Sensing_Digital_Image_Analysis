@@ -3,7 +3,6 @@ title: Module 2 Lecture 1: Fundamentals of image analysis and machine learning
 teaching: 
 exercises: 
 questions:
-
 - "???"
 objectives:
 - "= = ="
